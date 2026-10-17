@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "4462557267",
+    "titulo": "Desenvolvedor Junior",
+    "empresa": "ISA Saúde",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-junior-at-isa-sa%C3%BAde-4462557267?position=54&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=sUagKBMdw2JBtEEPiRYp1Q%3D%3D",
+    "competenciasRequisitadas": [
+      "ReactJS",
+      "Next.js",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL",
+      "MongoDB",
+      "Prisma",
+      "Git",
+      "Jest"
+    ]
+  },
+  {
+    "id": "4462056130",
+    "titulo": "DESENVOLVEDOR FULL STACK JR (JAVA/ANGULAR)",
+    "empresa": "Stefanini Brasil",
+    "local": "Brasília, Federal District, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-jr-java-angular-at-stefanini-brasil-4462056130?position=51&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=ERKrPlYdGKLXqoNVVpT72w%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "JavaScript",
+      "C#",
+      ".NET",
+      "Python",
+      "Angular",
+      "React Native",
+      "SQL",
+      "Git",
+      "APIs"
+    ]
+  },
+  {
+    "id": "4469995466",
+    "titulo": "DESENVOLVEDOR FULL STACK JR",
+    "empresa": "Grupo Eletropoll",
+    "local": "Corupá, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-jr-at-grupo-eletropoll-4469995466?position=41&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=vN5gHkRU%2FPl8KoLSnWlS%2BA%3D%3D",
+    "competenciasRequisitadas": [
+      "Docker",
+      "Containers",
+      "Virtualização",
+      "Git",
+      "Desenvolvimento Back-end",
+      "Desenvolvimento Front-end",
+      "APIs",
+      "Bancos de dados",
+      "Serviços em nuvem",
+      "IA/Machine Learning"
+    ]
+  },
+  {
+    "id": "4468366317",
+    "titulo": "Junior Software Engineer (Brazil)\nBrazil, Remote",
+    "empresa": "Sezzle LA",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-software-engineer-brazil-%0Abrazil-remote-at-sezzle-la-4468366317?position=58&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=BF3AyT5iljuPU8b2Dt1W2w%3D%3D",
+    "competenciasRequisitadas": [
+      "Golang",
+      "React",
+      "React Native",
+      "Grafana",
+      "Loki",
+      "Prometheus",
+      "Kubernetes",
+      "AWS",
+      "MySQL",
+      "Gitlab"
+    ]
+  },
+  {
+    "id": "4471788159",
+    "titulo": "Desenvolvedor(a) Full Stack Júnior (PHP/React)",
+    "empresa": "SoftExpert",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-full-stack-j%C3%BAnior-php-react-at-softexpert-4471788159?position=59&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=tIphE80h96vS4Ikw4Y6fhA%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "React",
+      "SQL",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "SQL Server",
+      "Oracle",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "4417327603",
+    "titulo": "Desenvolvedor Back-end (PHP/Nodejs)",
+    "empresa": "Madalozzo Seguros",
+    "local": "Ponta Grossa, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-php-nodejs-at-madalozzo-seguros-4417327603?position=57&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=Ra8yuMxbOird%2F6dOZaKC3A%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "Node.js",
+      "MySQL",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "4472211097",
+    "titulo": "Desenvolvedor FullStack Jr (.NET / Angular)",
+    "empresa": ".add",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-jr-net-angular-at-add-4472211097?position=55&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=O%2FG6PQIRj5Aa%2FSeW6iAfww%3D%3D",
+    "competenciasRequisitadas": [
+      ".NET Core",
+      ".NET 6+",
+      "C#",
+      "ASP.NET Web API",
+      "Angular",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "React",
+      "Git"
+    ]
+  },
+  {
+    "id": "4470549817",
+    "titulo": "Desenvolvedor Fullstack I",
+    "empresa": "SPL Engenharia",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-i-at-spl-engenharia-4470549817?position=52&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=ViF9v7P1pf7fiBf8DzOOXg%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "Git"
+    ]
+  },
+  {
+    "id": "4470164888",
+    "titulo": "Desenvolvedor(a) de Software Júnior (Foco em IA) | Vaga Exclusiva para PCD",
+    "empresa": "Cielo",
+    "local": "Barueri, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-de-software-j%C3%BAnior-foco-em-ia-vaga-exclusiva-para-pcd-at-cielo-4470164888?position=56&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=Jjwji3saRrxqZvMGRK%2Bucw%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "NoSQL",
+      "Vertex AI",
+      "OpenAI",
+      "Gemini",
+      "GCP",
+      "AWS",
+      "Azure"
+    ]
+  },
+  {
+    "id": "4457393945",
+    "titulo": "Analista Programador (Delphi) Júnior - Soluções em Agronegócio",
+    "empresa": "VIASOFT",
+    "local": "Pato Branco, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-programador-delphi-j%C3%BAnior-solu%C3%A7%C3%B5es-em-agroneg%C3%B3cio-at-viasoft-4457393945?position=50&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=3yBzNjjFLTSW7Hh4%2BiQl5g%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL"
+    ]
+  },
+  {
+    "id": "4461987319",
+    "titulo": "Junior Software Developer (Android)",
+    "empresa": "Enghouse Systems",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-software-developer-android-at-enghouse-systems-4461987319?position=48&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=BGxl2RuBYXprzQnKdoLtRQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Kotlin",
+      "Android SDK",
+      "Java",
+      "Docker",
+      "Linux",
+      "Git",
+      "GitFlow"
+    ]
+  },
+  {
+    "id": "4463037989",
+    "titulo": "Software Developer Java I (HCM) - 11756",
+    "empresa": "Senior Sistemas",
+    "local": "Blumenau, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/software-developer-java-i-hcm-11756-at-senior-sistemas-4463037989?position=46&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=sv3p8Cy6PXQfWYhWeTqsGg%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring",
+      "SQL",
+      "APIs REST",
+      "Scrum",
+      "Kanban",
+      "Angular",
+      "AWS"
+    ]
+  },
+  {
+    "id": "4415454307",
+    "titulo": "Junior Software Engineer — Remote, Brazil",
+    "empresa": "MixRank",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-software-engineer-%E2%80%94-remote-brazil-at-mixrank-4415454307?position=47&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=KbzpdPezgwKUV313qy8m6Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Rust",
+      "SQL",
+      "JavaScript",
+      "TypeScript",
+      "Nix",
+      "PostgreSQL",
+      "Linux",
+      "Git"
+    ]
+  },
+  {
+    "id": "4437328409",
+    "titulo": "Analista de Desenvolvimento de Software Júnior/Pleno",
+    "empresa": "Ana Lisboa Consultoria",
+    "local": "Salto, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-software-j%C3%BAnior-pleno-at-ana-lisboa-consultoria-4437328409?position=44&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=Lw0oSITWJmbtBiYf%2BP7%2Fbw%3D%3D",
+    "competenciasRequisitadas": [
+      "Git"
+    ]
+  },
+  {
+    "id": "4452580842",
+    "titulo": "Developer",
+    "empresa": "Topaz",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/developer-at-topaz-4452580842?position=45&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=sbq4za9kwgzPLjptcMUrQQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Vue.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "APIs REST",
+      "Git",
+      "Java",
+      "Spring Boot",
+      "Docker",
+      "Scrum"
+    ]
+  },
+  {
+    "id": "4472553112",
+    "titulo": "Junior Java Developer",
+    "empresa": "Jobgether",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-java-developer-at-jobgether-4472553112?position=43&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=c3jaKgE0DtcVOmV6kAWUKQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring Boot 3",
+      "JavaScript",
+      "TypeScript 4+",
+      "APIs REST",
+      "Git"
+    ]
+  },
+  {
+    "id": "4468935647",
+    "titulo": "Assistente de Desenvolvimento Jr. (Java) (Vaga Exclusiva para Pessoa com Deficiência)",
+    "empresa": "PagBank",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-desenvolvimento-jr-java-vaga-exclusiva-para-pessoa-com-defici%C3%AAncia-at-pagbank-4468935647?position=42&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=s0g2hup0ltfdFEq23Dn19Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "SQL",
+      "Git",
+      "Spring Boot",
+      "Scrum",
+      "Kanban"
+    ]
+  },
+  {
+    "id": "4467390942",
+    "titulo": "Engenheiro de software júnior",
+    "empresa": "Evertec Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-software-j%C3%BAnior-at-evertec-brasil-4467390942?position=38&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=qhk%2BpTYXu7nAeXwyXEdP6g%3D%3D",
+    "competenciasRequisitadas": [
+      ".NET",
+      "C#",
+      "SQL Server"
+    ]
+  },
+  {
+    "id": "4456519685",
+    "titulo": "Desenvolvedor Fullstack Jr",
+    "empresa": "MRM Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-jr-at-mrm-brasil-4456519685?position=39&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=Cqc5pr9bM8sSMz81HuqmjA%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Next.js",
+      "Node.js",
+      "Python",
+      "APIs REST",
+      "Git"
+    ]
+  },
+  {
+    "id": "4468020636",
+    "titulo": "Engenheiro De Software Jr | SQL",
+    "empresa": "Evertec Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-software-jr-sql-at-evertec-brasil-4468020636?position=37&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=C2VRyS3Yw6vqPTcsnr60VQ%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      ".NET",
+      "C#",
+      "SQL Server"
+    ]
+  },
+  {
+    "id": "4474374423",
+    "titulo": "Engenharia de Software Júnior - Python/AWS - Comunidade Finanças",
+    "empresa": "Itaú Unibanco",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenharia-de-software-j%C3%BAnior-python-aws-comunidade-finan%C3%A7as-at-ita%C3%BA-unibanco-4474374423?position=36&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=wVf7%2F%2FEkFnPC%2FkLS3yqaQA%3D%3D",
+    "competenciasRequisitadas": [
+      "AWS",
+      "Glue",
+      "Athena",
+      "Python",
+      "SQL",
+      "Clean Architecture",
+      "Clean Code",
+      "Git"
+    ]
+  },
+  {
+    "id": "4454108472",
+    "titulo": "Desenvolvedor Junior (Vaga exclusiva para PCD)",
+    "empresa": "TPF Engenharia",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-junior-vaga-exclusiva-para-pcd-at-tpf-engenharia-4454108472?position=49&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=oUZESOz%2FQBqU59gcXNGG0Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Git",
+      "C#",
+      ".NET",
+      "Java",
+      "Node.js",
+      "Python",
+      "APIs REST",
+      "Clean Code"
+    ]
+  },
+  {
+    "id": "4466096822",
+    "titulo": "Junior Software Engineer (Remote)",
+    "empresa": "Hire Feed",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-software-engineer-remote-at-hire-feed-4466096822?position=35&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=ftWMKG%2FRlfC22veCaPW5lA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Java",
+      "Go",
+      "Git"
+    ]
+  },
+  {
+    "id": "4470651497",
+    "titulo": "ANL ENGENHARIA TI JR - DADOS",
+    "empresa": "Itaú Unibanco",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/anl-engenharia-ti-jr-dados-at-ita%C3%BA-unibanco-4470651497?position=31&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=UPxv1Ua8M98sWwXRIT%2FTvw%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Clean Code",
+      "SOLID",
+      "Design Patterns",
+      "AWS",
+      "GitHub Actions",
+      "SQL",
+      "Git",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "4475330847",
+    "titulo": "Desenvolvedor Full-Stack JavaScript Júnior",
+    "empresa": "4DF Connect",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-javascript-j%C3%BAnior-at-4df-connect-4475330847?position=29&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=c7ifKgOvCm622LiWLFz1xw%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "TypeScript"
+    ]
+  },
+  {
+    "id": "4470895064",
+    "titulo": "Desenvolvedor FullStack Java/React Júnior",
+    "empresa": "Nava | Tech for Business",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-java-react-j%C3%BAnior-at-nava-tech-for-business-4470895064?position=33&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=OQrKgPqFAgCrEwVT9FnCEQ%3D%3D",
+    "competenciasRequisitadas": [
+      "React",
+      "Kubit",
+      "HTML",
+      "CSS",
+      "Java 17",
+      "Spring Boot",
+      "APIs RESTful",
+      "Git",
+      "Kubernetes",
+      "AWS"
+    ]
+  },
+  {
+    "id": "4456789309",
+    "titulo": "Desenvolvedor(a) Backend Junior/Pleno | Renda Fixa",
+    "empresa": "BTG Pactual",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-junior-pleno-renda-fixa-at-btg-pactual-4456789309?position=32&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=eiknCgeGIEXA5lYmOkgVog%3D%3D",
+    "competenciasRequisitadas": [
+      "AWS",
+      ".NET Core",
+      "Python",
+      "MySQL",
+      "MongoDB",
+      "DynamoDB"
+    ]
+  },
+  {
+    "id": "4468330275",
+    "titulo": "Assistente Desenvolvedor(a) | Associate [tag01]",
+    "empresa": "PwC",
+    "local": "Barueri, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/assistente-desenvolvedor-a-associate-tag01-at-pwc-4468330275?position=30&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=8Ij791sp5bfh%2Bj0KNYdn6A%3D%3D",
+    "competenciasRequisitadas": [
+      "Power Automate",
+      "Power Apps",
+      "Power BI",
+      "Alteryx",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "C#",
+      "Java"
+    ]
+  },
+  {
+    "id": "4474366326",
+    "titulo": "Desenvolvedor(a) Backend Java - Junior",
+    "empresa": "BRQ Digital Solutions",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-java-junior-at-brq-digital-solutions-4474366326?position=27&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=ItAkQotIS%2F5tve7p%2FymUsQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "APIs REST",
+      "SQL",
+      "Git",
+      "JIRA",
+      "Spring Boot",
+      "SQL Server",
+      "Angular",
+      "Microsoft Azure",
+      "Docker"
+    ]
+  },
+  {
+    "id": "4473789970",
+    "titulo": "Python Developer (Junior) - Remote Work",
+    "empresa": "INDI Staffing Services",
+    "local": "Duque de Caxias, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/python-developer-junior-remote-work-at-indi-staffing-services-4473789970?position=26&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=71sswLwkhIyKYraqyZ2hxA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python"
+    ]
+  },
+  {
+    "id": "4454044477",
+    "titulo": "Analista Desenvolvedor Jr (Flutter)",
+    "empresa": "Evo Systems",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-jr-flutter-at-evo-systems-4454044477?position=28&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=KAx2MwAGj1vX3Ov42McjPQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Flutter",
+      "PostgreSQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "4473753964",
+    "titulo": "Desenvolvedor Java Junior",
+    "empresa": "Bionexo",
+    "local": "Blumenau, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-at-bionexo-4473753964?position=25&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=wrNN%2BeDXaHafKYUvRvhQ9Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "JavaScript",
+      "HTML",
+      "Oracle",
+      "Git"
+    ]
+  },
+  {
+    "id": "4470139924",
+    "titulo": "Analista Desenvolvedor Júnior",
+    "empresa": "Grupo ABA Infra",
+    "local": "Santos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-j%C3%BAnior-at-grupo-aba-infra-4470139924?position=34&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=fGsTr0ygShcCbChLBKX4gg%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "SQL",
+      "MySQL",
+      "React"
+    ]
+  },
+  {
+    "id": "4468001160",
+    "titulo": "Desenvolvedor Júnior",
+    "empresa": "Fortesec - Forte Securitizadora S.A.",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-fortesec-forte-securitizadora-s-a-4468001160?position=23&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=fODfjztmOmqArSwcI0TEjw%3D%3D",
+    "competenciasRequisitadas": [
+      "APIs REST",
+      "Java",
+      "TypeScript",
+      "JavaScript",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "4448081417",
+    "titulo": "Desenvolvedor Java Junior",
+    "empresa": "Minsait",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-at-minsait-4448081417?position=24&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=%2BpGjoiuRuTPXTc7gNsBxOQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring Boot",
+      "APIs REST",
+      "SQL Server",
+      "Git",
+      "Scrum",
+      "Kanban",
+      "AWS",
+      "Docker"
+    ]
+  },
+  {
+    "id": "4404018383",
+    "titulo": "Desenvolvedor(a) Backend Júnior/Pleno – IT Trading",
+    "empresa": "BTG Pactual",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-j%C3%BAnior-pleno-%E2%80%93-it-trading-at-btg-pactual-4404018383?position=20&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=AR2vZ8BasgLRPahIGbil8Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "C#",
+      "Python",
+      "SQL",
+      "Git",
+      "AWS",
+      "Azure"
+    ]
+  },
+  {
+    "id": "4461985437",
+    "titulo": "Junior Software Developer",
+    "empresa": "Enghouse Systems",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-software-developer-at-enghouse-systems-4461985437?position=21&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=IhQgpzkHjpNG2CqSYqFzWg%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "SQL",
+      "PostgreSQL",
+      "MySQL",
+      "Git",
+      "JUnit",
+      "Mockito",
+      "Docker"
+    ]
+  },
+  {
+    "id": "4462326922",
+    "titulo": "Analista de Desenvolvimento Jr",
+    "empresa": "Buddha Spa",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-jr-at-buddha-spa-4462326922?position=19&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=g3PGvRD6YB11HE0shWSVYQ%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "JavaScript",
+      "TypeScript",
+      "WordPress",
+      "Shopify",
+      "React",
+      "Node.js",
+      "Python",
+      "Git",
+      "MySQL"
+    ]
+  },
+  {
+    "id": "4468040436",
+    "titulo": "Engenheiro(a) de Software Backend - Júnior",
+    "empresa": "Equifax",
+    "local": "Barueri, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-a-de-software-backend-j%C3%BAnior-at-equifax-4468040436?position=22&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=OCGOSMNDH7kyzQZKRC74Zg%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Git",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "4466342270",
+    "titulo": "Desenvolvedor (a) Backend Júnior C#/.NET - Híbrido/SP",
+    "empresa": "BRQ Digital Solutions",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-j%C3%BAnior-c%23-net-h%C3%ADbrido-sp-at-brq-digital-solutions-4466342270?position=14&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=%2BkKg8lbn4%2F8yhyeo8Nu9Hg%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "SQL",
+      "Git",
+      "SQL Server",
+      "NoSQL",
+      "RabbitMQ",
+      "Redis",
+      "Docker"
+    ]
+  },
+  {
+    "id": "4244881112",
+    "titulo": "Engenheiro(a) de Software | Assistente e Júnior",
+    "empresa": "XP Inc.",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-a-de-software-assistente-e-j%C3%BAnior-at-xp-inc-4244881112?position=18&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=%2Fkf1f%2B%2BxXk%2F4vnVW1jodQQ%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      "Java",
+      "Go",
+      "Rust",
+      "Azure",
+      "React"
+    ]
+  },
+  {
+    "id": "4428958622",
+    "titulo": "PROGRAMADOR DE COMPUTADOR JR",
+    "empresa": "Foxconn Brasil",
+    "local": "Jundiaí, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programador-de-computador-jr-at-foxconn-brasil-4428958622?position=17&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=h0NV%2FDXSidtqemgUGIGEHQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle",
+      "Delphi",
+      "Java",
+      "PL-SQL",
+      "JSP"
+    ]
+  },
+  {
+    "id": "4472917380",
+    "titulo": "Pessoa Desenvolvedora Software Júnior",
+    "empresa": "Smartspace",
+    "local": "João Pessoa, Paraíba, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-software-j%C3%BAnior-at-smartspace-4472917380?position=15&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=37des6h9EbOnw%2BBYw07Osg%3D%3D",
+    "competenciasRequisitadas": [
+      "Node.js",
+      "Java",
+      "React",
+      "Bootstrap",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "4432009440",
+    "titulo": "[BANCO DE TALENTOS] Desenvolvedor(a) Júnior",
+    "empresa": "BW8 Martech",
+    "local": "Londrina, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-desenvolvedor-a-j%C3%BAnior-at-bw8-martech-4432009440?position=12&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=WbWbGeMwL0Hlr6tYfLJOeQ%3D%3D",
+    "competenciasRequisitadas": [
+      "APIs REST",
+      "JSON",
+      "SQL",
+      "Git",
+      "Node.js",
+      "TypeScript",
+      "PHP",
+      "Postman",
+      "Insomnia",
+      "ETL"
+    ]
+  },
+  {
+    "id": "4433193450",
+    "titulo": "Analista de Desenvolvimento de Sistemas Júnior",
+    "empresa": "TACOM Soluções em Mobilidade",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-sistemas-j%C3%BAnior-at-tacom-solu%C3%A7%C3%B5es-em-mobilidade-4433193450?position=10&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=3dCxU3KCjD6XaxfGM0Uo9Q%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4461939235",
+    "titulo": "Analista Desenvolvedor Java Júnior",
+    "empresa": "ANBIMA",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-java-j%C3%BAnior-at-anbima-4461939235?position=13&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=sDR2LyKT6fxovVzseTc%2B%2BA%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Java EE",
+      "AngularJs",
+      "SQL",
+      "Maven",
+      "JBOSS",
+      "Intellij",
+      "Scrum",
+      "Oracle",
+      "IBM Rational"
+    ]
+  },
+  {
+    "id": "4462571104",
+    "titulo": "Pessoa Desenvolvedora Mobile - Júnior",
+    "empresa": "Franq",
+    "local": "Florianópolis, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-mobile-j%C3%BAnior-at-franq-4462571104?position=9&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=bA8h%2F8FJs%2FWvwz7GEfYvDA%3D%3D",
+    "competenciasRequisitadas": [
+      "Flutter",
+      "APIs REST",
+      "Figma",
+      "Git",
+      "CI/CD",
+      "Firebase",
+      "Flutter Test"
+    ]
+  },
+  {
+    "id": "4472228264",
+    "titulo": "Analista de Desenvolvimento Jr",
+    "empresa": "DIGISYSTEM - IT Solutions",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-jr-at-digisystem-it-solutions-4472228264?position=11&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=hOh4XjEzs0tdUKz6qp6Vag%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "C#",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "APIs REST",
+      "Git",
+      "Scrum",
+      "Kanban"
+    ]
+  },
+  {
+    "id": "4157638898",
+    "titulo": "Ruby Junior Developer | REF#282373",
+    "empresa": "BairesDev",
+    "local": "Salvador, Bahia, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/ruby-junior-developer-ref%23282373-at-bairesdev-4157638898?position=7&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=hq1Bl1Md2jbAFhQDG5Dn8g%3D%3D",
+    "competenciasRequisitadas": [
+      "Ruby",
+      "Ruby on Rails",
+      "Git"
+    ]
+  },
+  {
+    "id": "4157645003",
+    "titulo": "Junior .NET Developer - Remote | REF#282332",
+    "empresa": "BairesDev",
+    "local": "João Pessoa, Paraíba, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-net-developer-remote-ref%23282332-at-bairesdev-4157645003?position=6&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=tYJvria4G%2B%2FF7DiyWEQ0Yw%3D%3D",
+    "competenciasRequisitadas": [
+      ".NET",
+      "C#",
+      "Git"
+    ]
+  },
+  {
+    "id": "4464917223",
+    "titulo": "DESENVOLVEDOR(A) JAVA FULLSTACK JÚNIOR",
+    "empresa": "MV",
+    "local": "Fortaleza, Ceará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-java-fullstack-j%C3%BAnior-at-mv-4464917223?position=8&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=ml%2BLjAF0kjb7JXwKATP0uA%3D%3D",
+    "competenciasRequisitadas": [
+      "PL/SQL",
+      "Java",
+      "Javascript",
+      "Angular",
+      "PostgreSQL",
+      "Oracle",
+      "GIT"
+    ]
+  },
+  {
+    "id": "4461125542",
+    "titulo": "Desenvolvedor de Software Júnior",
+    "empresa": "Grupo Benenutri",
+    "local": "Brasília, Federal District, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-de-software-j%C3%BAnior-at-grupo-benenutri-4461125542?position=4&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=Q8cYJDsBxPa9gMxiQGyKYA%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "APIs RESTful"
+    ]
+  },
+  {
+    "id": "4468346504",
+    "titulo": "Analista de Desenvolvimento de Software I",
+    "empresa": "Serasa Experian",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-software-i-at-serasa-experian-4468346504?position=5&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=uv67FcegwhFqA7Dt6B51%2Bg%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "APIs REST",
+      "Cursor",
+      "Claude",
+      "Copilot"
+    ]
+  },
+  {
+    "id": "4470041793",
+    "titulo": "Desenvolvedor Java Junior - SC / Blumenau - Híbrido",
+    "empresa": "Bionexo",
+    "local": "Blumenau, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-java-junior-sc-blumenau-h%C3%ADbrido-at-bionexo-4470041793?position=10&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=lYhdGO%2FCuFFcLWlRJRwzqw%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring Boot",
+      "APIs REST",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Docker",
+      "Clean Code"
+    ]
+  },
+  {
+    "id": "4470168793",
+    "titulo": "Software Developer I C# (Aparecida de Goiânia) - 11593",
+    "empresa": "Senior Sistemas",
+    "local": "Aparecida de Goiânia, Goiás, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/software-developer-i-c%23-aparecida-de-goi%C3%A2nia-11593-at-senior-sistemas-4470168793?position=9&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=A5WvvMWubAZpHSQkB2wtZg%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET",
+      "SQL",
+      "Git",
+      "Scrum",
+      "Kanban",
+      "APIs REST"
+    ]
+  },
+  {
+    "id": "4469989940",
+    "titulo": "Analista Desenvolvedor TI JR",
+    "empresa": "MULTILOG",
+    "local": "Itajaí, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-ti-jr-at-multilog-4469989940?position=9&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=Ly53%2FCFggaH1%2BOGvo3XW5Q%3D%3D",
+    "competenciasRequisitadas": [
+      ".Net core",
+      ".Net 4.5",
+      "T-SQL",
+      "PL/SQL",
+      "SQL",
+      "MVC",
+      "GIT",
+      "SCRUM",
+      "Clean Code"
+    ]
+  },
+  {
+    "id": "4471778752",
+    "titulo": "Analista de Sistemas Júnior",
+    "empresa": "Minerva Foods",
+    "local": "Barretos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-j%C3%BAnior-at-minerva-foods-4471778752?position=8&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=8VghBuqW3GHBKbVdRT9fUg%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "RPA"
+    ]
+  },
+  {
+    "id": "4469608762",
+    "titulo": "Pessoa Engenheira de Software Júnior (Desenvolvedor Web) - Indaiatuba/SP",
+    "empresa": "John Deere",
+    "local": "Indaiatuba, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-engenheira-de-software-j%C3%BAnior-desenvolvedor-web-indaiatuba-sp-at-john-deere-4469608762?position=6&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=2zK%2FITUnJArNJ2b65CSoEw%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "AWS",
+      "Golang",
+      "Python"
+    ]
+  },
+  {
+    "id": "4461456876",
+    "titulo": "Pessoa Desenvolvedora Full Stack Júnior com foco em Front-End e Cloud Azure (REMOTO)",
+    "empresa": "Viceri SEIDOR",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-full-stack-j%C3%BAnior-com-foco-em-front-end-e-cloud-azure-remoto-at-viceri-seidor-4461456876?position=10&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=8fEyWVtb%2BL61cj1fvnqBRw%3D%3D",
+    "competenciasRequisitadas": [
+      "Angular",
+      "TypeScript",
+      "Node.js",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "APIs REST",
+      "Git",
+      "Docker",
+      "Microsoft Azure"
+    ]
+  },
+  {
+    "id": "4471788725",
+    "titulo": "Desenvolvedor Back-End Java Júnior",
+    "empresa": "BRy Tecnologia",
+    "local": "Florianópolis, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-back-end-java-j%C3%BAnior-at-bry-tecnologia-4471788725?position=5&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=W12dcsLqHJ97yJx3eISbNA%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "API"
+    ]
+  },
+  {
+    "id": "4473431631",
+    "titulo": "Desenvolvedor/a de Sistemas Jr. - São Paulo (Plantão)",
+    "empresa": "Target Sistemas",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-de-sistemas-jr-s%C3%A3o-paulo-plant%C3%A3o-at-target-sistemas-4473431631?position=8&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=Qxv%2FaUNZdHZVr6IfN1W14Q%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      "SQL Server",
+      "NODE",
+      "ANGULAR",
+      "HTML",
+      "CSS",
+      "API's REST",
+      "Scrum",
+      "Kanban",
+      "GIT"
+    ]
+  },
+  {
+    "id": "4388541458",
+    "titulo": "Desenvolvedor Full Stack Júnior AI (@)",
+    "empresa": "Plusoft",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-j%C3%BAnior-ai-%40-at-plusoft-4388541458?position=7&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=zY4Qb%2B1eZ3SfvGuDGCQgww%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "Node.js",
+      "Python",
+      "Oracle Database",
+      "SQL Server",
+      "Docker",
+      "Kubernetes",
+      "ElasticSearch"
+    ]
+  },
+  {
+    "id": "4466801005",
+    "titulo": "[Banco de Talentos] Delivery AI Engineering Entry Level, Brazil - X Delivery",
+    "empresa": "BCG X",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-delivery-ai-engineering-entry-level-brazil-x-delivery-at-bcg-x-4466801005?position=4&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=FscA%2FuPd6BgizD0KqgS37w%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "Java",
+      "JavaScript",
+      "API"
+    ]
+  },
+  {
+    "id": "4427047170",
+    "titulo": "Desenvolvedor(a) Oracle PL/SQL Júnior",
+    "empresa": "Cooper Card Administradora de Cartões Ltda",
+    "local": "Maringá, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-oracle-pl-sql-j%C3%BAnior-at-cooper-card-administradora-de-cart%C3%B5es-ltda-4427047170?position=1&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=WLxonR8NFeIiuDfNlcD43w%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle",
+      "SQL",
+      "PL/SQL"
+    ]
+  },
+  {
+    "id": "4469232470",
+    "titulo": "Desenvolvedor Júnior",
+    "empresa": "Jobbol",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-jobbol-4469232470?position=2&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=2xVgl%2FYOx%2FZFGKNBAGTD0Q%3D%3D",
+    "competenciasRequisitadas": [
+      "WinForms",
+      "MVP",
+      "SQL Server",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "4442162932",
+    "titulo": "Desenvolvedor(a) de Software",
+    "empresa": "Grupo Limber Software",
+    "local": "Chapecó, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-de-software-at-grupo-limber-software-4442162932?position=3&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=ky8eCU%2B4sUg2B%2BrhLq%2Fk7g%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      "Delphi",
+      "SQL",
+      "SQL Server"
+    ]
+  },
+  {
+    "id": "4470224657",
+    "titulo": "Desenvolvedor Júnior",
+    "empresa": "Jobbol",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-j%C3%BAnior-at-jobbol-4470224657?position=1&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=xJbwm5r1JEIy2oXcZiJvUg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4469985701",
+    "titulo": "Analista de Desenvolvimento Júnior",
+    "empresa": "Tortoro, Madureira & Ragazzi Advogados",
+    "local": "Ribeirão Preto, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-j%C3%BAnior-at-tortoro-madureira-ragazzi-advogados-4469985701?position=3&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=tkB7lHN%2BZ9vCRGnF0ToFGA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "N8N",
+      "API",
+      "Webservices",
+      "Webhooks",
+      "OCR"
+    ]
+  },
+  {
+    "id": "4446537435",
+    "titulo": "[Tech] Pessoa Desenvolvedora .NET Júnior",
+    "empresa": "Direção Processamento de Dados (Adquirida pela Linx SA)",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/tech-pessoa-desenvolvedora-net-j%C3%BAnior-at-dire%C3%A7%C3%A3o-processamento-de-dados-adquirida-pela-linx-sa-4446537435?position=3&pageNum=0&refId=QCMrhE95J4tKfHxRTFc%2BYA%3D%3D&trackingId=RU1tt27OZlBxmjxV0coWYQ%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET",
+      "SQL Server",
+      "APIs REST"
+    ]
+  },
+  {
+    "id": "4467570730",
+    "titulo": "Junior Fullstack Engineer - Angular and C# or Java",
+    "empresa": "TownSq",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/junior-fullstack-engineer-angular-and-c%23-or-java-at-townsq-4467570730?position=1&pageNum=7&refId=kew3gxNLKCYBNkWTRRzC7w%3D%3D&trackingId=jQFNTwUDOgC1I45nvRQQLQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Angular",
+      "C#",
+      "Java",
+      "AWS",
+      "NX"
+    ]
+  },
+  {
+    "id": "4466588224",
+    "titulo": "[Banco de Talentos] Delivery AI Engineering Entry Level, Brazil - X Delivery",
+    "empresa": "BCG X",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-delivery-ai-engineering-entry-level-brazil-x-delivery-at-bcg-x-4466588224?position=5&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=wKgJxLCZ3rOUCcOyiXGTfA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "Java",
+      "JavaScript",
+      "APIs"
+    ]
+  },
+  {
+    "id": "4472219755",
+    "titulo": "Desenvolvedor Front-end Jr.",
+    "empresa": "Sou Energy",
+    "local": "Fortaleza, Ceará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-front-end-jr-at-sou-energy-4472219755?position=6&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=zXQ14%2Bqz06Vvt5%2FIUv1N0w%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "MySQL",
+      "Vue.js",
+      "APIs RESTful",
+      "Git",
+      "Scrum",
+      "Kanban",
+      "PHP"
+    ]
+  },
+  {
+    "id": "4471037269",
+    "titulo": "Desenvolvedor(a) Backend Junior - C#/.NET (BRL 4.500 CLT + benefícios)",
+    "empresa": "NOUS LATAM",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-backend-junior-c%23-net-brl-4-500-clt-%2B-benef%C3%ADcios-at-nous-latam-4471037269?position=7&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=n2Ene75ocGycjdUfSI7uLA%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET",
+      "Angular",
+      "APIs REST",
+      "SQL",
+      "PL/SQL",
+      "Oracle"
+    ]
+  },
+  {
+    "id": "4440291403",
+    "titulo": "Pessoa Desenvolvedora Fullstack",
+    "empresa": "Shopee",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-desenvolvedora-fullstack-at-shopee-4440291403?position=4&pageNum=6&refId=utlL%2BXO4LOm%2FVoqJUT%2FX1g%3D%3D&trackingId=fS9yDwpItETwsh6ZGz18Lg%3D%3D",
+    "competenciasRequisitadas": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "PHP",
+      "Laravel",
+      "PostgreSQL",
+      "Docker",
+      "Nginx",
+      "Google Cloud Platform – GCP",
+      "Git"
+    ]
+  },
+  {
+    "id": "4451271323",
+    "titulo": "Desenvolvedor(a) RPA Júnior - Volkswagen Blumenau",
+    "empresa": "Grupo Breitkopf",
+    "local": "Blumenau, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-rpa-j%C3%BAnior-volkswagen-blumenau-at-grupo-breitkopf-4451271323?position=9&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=pIJU8%2FO4pEfHd9WKLDzvWQ%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Power Automate",
+      "Python"
+    ]
+  },
+  {
+    "id": "4310494599",
+    "titulo": "Engenharia de Software Back-end Assistente e Júnior | Vaga exclusiva para PCD",
+    "empresa": "XP Inc.",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenharia-de-software-back-end-assistente-e-j%C3%BAnior-vaga-exclusiva-para-pcd-at-xp-inc-4310494599?position=1&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=4rv5FsVJSMmMxGe4GXQ%2BHg%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".Net",
+      "Cloud",
+      "Azure",
+      "React"
+    ]
+  },
+  {
+    "id": "4466155307",
+    "titulo": "(Banco de Talentos) Pessoa Desenvolvedora Junior",
+    "empresa": "ATECH – NEGÓCIOS EM TECNOLOGIAS S/A",
+    "local": "São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-pessoa-desenvolvedora-junior-at-atech-%E2%80%93-neg%C3%B3cios-em-tecnologias-s-a-4466155307?position=3&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=do5nUmaYVmxnqMKWdBkGFw%3D%3D",
+    "competenciasRequisitadas": [
+      "C",
+      "Rust",
+      "Jira",
+      "Git",
+      "Linux",
+      "Javascript"
+    ]
+  },
+  {
+    "id": "4459296896",
+    "titulo": "Assistente de Desenvolvimento de Software",
+    "empresa": "Confiance Medical",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-desenvolvimento-de-software-at-confiance-medical-4459296896?position=8&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=mkZEx8NVkDZEHBG%2FM4tepw%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "C#",
+      ".NET",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Angular",
+      "Delphi",
+      "Android"
+    ]
+  },
+  {
+    "id": "4443774084",
+    "titulo": "Desenvolvedor Web Júnior",
+    "empresa": "DGA",
+    "local": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-web-j%C3%BAnior-at-dga-4443774084?position=7&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=7mdcJqtOlhGIFXpMtNhzGg%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "MYSQL",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Node js",
+      "React js"
+    ]
+  },
+  {
+    "id": "4443226976",
+    "titulo": "Analista Desenvolvedor ADVP",
+    "empresa": "Laboratorios Bagó",
+    "local": "Colatina, Espírito Santo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-desenvolvedor-advp-at-laboratorios-bag%C3%B3-4443226976?position=4&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=4wuqiI%2FgGtIH%2F0kcSoBsVA%3D%3D",
+    "competenciasRequisitadas": [
+      "ADVPL",
+      "SQL",
+      "Protheus",
+      "Git"
+    ]
+  },
+  {
+    "id": "4463902992",
+    "titulo": "Analista Junior Desenvolvimento- Low Code - Sertãozinho/ SP",
+    "empresa": "SicoobCocred",
+    "local": "Sertãozinho, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-junior-desenvolvimento-low-code-sert%C3%A3ozinho-sp-at-sicoobcocred-4463902992?position=5&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=XjY6%2Bh7L9saOoHjt43GyIQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Power Apps",
+      "Power Automate",
+      "Dataverse",
+      "SharePoint",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "4472737132",
+    "titulo": "Desenvolvedor Android Júnior - REMOTO",
+    "empresa": "FOURSYS",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-android-j%C3%BAnior-remoto-at-foursys-4472737132?position=10&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=XgHBAOvScBY4zc4x4DumQQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Android",
+      "Kotlin",
+      "Android SDK",
+      "Android Studio",
+      "Jetpack Compose",
+      "REST",
+      "GitHub",
+      "GitLab",
+      "SQLite"
+    ]
+  },
+  {
+    "id": "4466561696",
+    "titulo": "Desenvolvedor(a) Full Stack Júnior – Node.js | React Native",
+    "empresa": "Vericode",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-full-stack-j%C3%BAnior-%E2%80%93-node-js-react-native-at-vericode-4466561696?position=6&pageNum=8&refId=2o8UVXBo%2BqDy%2BnJWLqxkzA%3D%3D&trackingId=US0GitStSW%2BmQwlsZqmR7A%3D%3D",
+    "competenciasRequisitadas": [
+      "Node.js",
+      "TypeScript",
+      "React Native",
+      "PostgreSQL",
+      "SQL",
+      "Git",
+      "Kafka",
+      "RabbitMQ",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "id": "4473742740",
+    "titulo": "Analista de Sistemas Júnior",
+    "empresa": "HEMOUDI ABDELHAMID",
+    "local": "Barretos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-j%C3%BAnior-at-hemoudi-abdelhamid-4473742740?position=8&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=Kgci6xYqAbDkfhmTXjsh7g%3D%3D",
+    "competenciasRequisitadas": [
+      "Python"
+    ]
+  },
+  {
+    "id": "4438517166",
+    "titulo": "974 - Assistente de Sistemas de Segurança (Desenvolvedor)",
+    "empresa": "Yapp",
+    "local": "Contagem, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/974-assistente-de-sistemas-de-seguran%C3%A7a-desenvolvedor-at-yapp-4438517166?position=7&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=4LCH9yiXqiZyHGeIcQCf2Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "JavaScript",
+      "HTML",
+      "PHP",
+      "SQL",
+      "Power BI",
+      "Excel",
+      "SharePoint",
+      "Power Apps",
+      "Power Automate"
+    ]
+  },
+  {
+    "id": "4422775936",
+    "titulo": "Jr. Web Developer",
+    "empresa": "Treebird Branding",
+    "local": "Jaci, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jr-web-developer-at-treebird-branding-4422775936?position=5&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=Pza%2FFJx%2BQIAnGX5mqcTdzw%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4409112622",
+    "titulo": "Desenvolvedor(a) Salesforce Júnior - Recife",
+    "empresa": "Deloitte",
+    "local": "Recife, Pernambuco, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-a-salesforce-j%C3%BAnior-recife-at-deloitte-4409112622?position=6&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=5Ow7zcnpNzm3AggxnuH9bw%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "Apex",
+      "LWC",
+      "Git",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "4473524932",
+    "titulo": "Dev Vibecode Júnior",
+    "empresa": "doc9",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/dev-vibecode-j%C3%BAnior-at-doc9-4473524932?position=10&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=X4qYT9C%2Fi%2FaWWJp%2FWVy%2B6g%3D%3D",
+    "competenciasRequisitadas": [
+      "Lovable",
+      "Cursor",
+      "ChatGPT",
+      "Claude",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "4474783738",
+    "titulo": "Analista de Desenvolvimento",
+    "empresa": "Aliare",
+    "local": "Cascavel, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-at-aliare-4474783738?position=2&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=AaWVIapDNqRaeXuGLwpedA%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle",
+      "PostgreSQL",
+      "JavaScript",
+      "Vue.js",
+      "Java",
+      "Docker"
+    ]
+  },
+  {
+    "id": "4466477532",
+    "titulo": "Analista de Programação Jr.",
+    "empresa": "Iacit",
+    "local": "São José dos Campos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-programa%C3%A7%C3%A3o-jr-at-iacit-4466477532?position=4&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=JiMY6LpSHi5DnEqz0bBNXw%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "C++",
+      "C#",
+      "Java",
+      "HTML",
+      "CSS",
+      "JS",
+      "SQL",
+      "SVN",
+      "GIT"
+    ]
+  },
+  {
+    "id": "4469024992",
+    "titulo": "Desenvolvedor Full Stack Jr C# .Net - Vaga Exclusiva PCD",
+    "empresa": "Stoque",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-full-stack-jr-c%23-net-vaga-exclusiva-pcd-at-stoque-4469024992?position=3&pageNum=9&refId=B9Vq2G%2BCINqp2GANXr54IQ%3D%3D&trackingId=JLBECfMKU91lx9JpZv%2BR6g%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET",
+      "Vue.js",
+      "JavaScript",
+      "HTML5",
+      "CSS3",
+      "SQL Server",
+      "Git",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "4476235432",
+    "titulo": "Estágio em Implantação de Software - Híbrido (Belo Horizonte/MG)",
+    "empresa": "Aiko",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-implanta%C3%A7%C3%A3o-de-software-h%C3%ADbrido-belo-horizonte-mg-at-aiko-4476235432?position=60&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=tGua5VOUA4WC84CmEIhYWQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "Word",
+      "PowerPoint",
+      "SQL",
+      "Scrum"
+    ]
+  },
+  {
+    "id": "4467919051",
+    "titulo": "Quality Assurance Internship (QA)",
+    "empresa": "Fanatee",
+    "local": "São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/quality-assurance-internship-qa-at-fanatee-4467919051?position=57&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=FzcMAte1T9l4iQEqo2C2iQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Jira",
+      "Trello",
+      "GIT",
+      "C#",
+      "Unity",
+      "Java",
+      "Swift"
+    ]
+  },
+  {
+    "id": "4467784922",
+    "titulo": "Estagiário em T.I",
+    "empresa": "Special",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-em-t-i-at-special-4467784922?position=59&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=VzTcVlkqgL3i53HiDpEU3Q%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4446170411",
+    "titulo": "Estágio em TI - Suporte Técnico e Atendimento ao Cliente (Híbrido)",
+    "empresa": "easyfast.tech",
+    "local": "Santos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-suporte-t%C3%A9cnico-e-atendimento-ao-cliente-h%C3%ADbrido-at-easyfast-tech-4446170411?position=56&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=MPh%2BCpJl3o6WvV33dBmjZQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Word",
+      "Excel",
+      "PowerPoint",
+      "Windows Server",
+      "Linux"
+    ]
+  },
+  {
+    "id": "4453598814",
+    "titulo": "Estagiário(a) |LCCP",
+    "empresa": "LabWare",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-lccp-at-labware-4453598814?position=58&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=DPV67%2BV1ISAxaQyoPyBKpw%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4469083304",
+    "titulo": "Estagiário(a) em Suporte Técnico de TI",
+    "empresa": "FAS Advogados in cooperation with CMS",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-suporte-t%C3%A9cnico-de-ti-at-fas-advogados-in-cooperation-with-cms-4469083304?position=54&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=ZT1LRZq%2Fd7545%2BC%2FXbrDfQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Microsoft 365",
+      "Outlook",
+      "Teams",
+      "Active Directory",
+      "Microsoft Entra ID"
+    ]
+  },
+  {
+    "id": "4474497051",
+    "titulo": "Estágio em Tecnologia (Infraestrutura & Sistemas) na Brandness",
+    "empresa": "Brandness",
+    "local": "Florianópolis, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-infraestrutura-sistemas-na-brandness-at-brandness-4474497051?position=53&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=0TPwkktjPnIRkLU%2F0rYu1g%3D%3D",
+    "competenciasRequisitadas": [
+      "Google Workspace",
+      "ChatGPT",
+      "Python",
+      "JavaScript",
+      "SQL",
+      "APIs",
+      "webhooks",
+      "n8n",
+      "Make",
+      "Zapier"
+    ]
+  },
+  {
+    "id": "4476226633",
+    "titulo": "Estagio em TI - Vaga afirmativa para pessoas Negras e Pardas",
+    "empresa": "7COMm - People and tech to transform",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagio-em-ti-vaga-afirmativa-para-pessoas-negras-e-pardas-at-7comm-people-and-tech-to-transform-4476226633?position=55&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=sBke60X7VzmReOAiGheg%2Bg%3D%3D",
+    "competenciasRequisitadas": [
+      "Docusign CLM"
+    ]
+  },
+  {
+    "id": "4463165168",
+    "titulo": "Estágio em Tecnologia da Informação",
+    "empresa": "InterTox",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-da-informa%C3%A7%C3%A3o-at-intertox-4463165168?position=52&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=VWwfuFkQUkdoBBsqpw780Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows 10",
+      "Windows 11",
+      "Windows Server 2019",
+      "ERP",
+      "Suporte técnico"
+    ]
+  },
+  {
+    "id": "4476845022",
+    "titulo": "Estagiário(a) de Banco de Dados",
+    "empresa": "Samsung SDS Latin America",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-banco-de-dados-at-samsung-sds-latin-america-4476845022?position=50&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=zGoRRexbBdbDM9jINEoKmw%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Windows",
+      "Linux",
+      "Microsoft Office",
+      "Excel",
+      "Grafana",
+      "Prometheus",
+      "Zabbix",
+      "Python",
+      "PowerShell"
+    ]
+  },
+  {
+    "id": "4469082353",
+    "titulo": "Estagiário(a) de Banco de Dados (SQL & Oracle) + IA",
+    "empresa": "FAS Advogados in cooperation with CMS",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-banco-de-dados-sql-oracle-%2B-ia-at-fas-advogados-in-cooperation-with-cms-4469082353?position=47&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=RDKJZ7O%2F%2FAhRY%2BwL7pmovA%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Oracle Database",
+      "Excel",
+      "Power BI",
+      "Power Query",
+      "Python"
+    ]
+  },
+  {
+    "id": "4475717353",
+    "titulo": "Estagio em TI",
+    "empresa": "7COMm - People and tech to transform",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagio-em-ti-at-7comm-people-and-tech-to-transform-4475717353?position=45&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=ajejpDDfWTY5hC3dqRXMFA%3D%3D",
+    "competenciasRequisitadas": [
+      "Docusign CLM",
+      "Análise de sistemas"
+    ]
+  },
+  {
+    "id": "4472803460",
+    "titulo": "Estágio em Suporte de TI",
+    "empresa": "Atmis Gestão",
+    "local": "São José dos Campos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-suporte-de-ti-at-atmis-gest%C3%A3o-4472803460?position=49&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=aFQ%2FchXVJClqfdov3LInJA%3D%3D",
+    "competenciasRequisitadas": [
+      "Pacote Office",
+      "Windows",
+      "SQL",
+      "Service desk",
+      "LGPD"
+    ]
+  },
+  {
+    "id": "4467926005",
+    "titulo": "Estágio em Suporte a Produtos",
+    "empresa": "RTM",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-suporte-a-produtos-at-rtm-4467926005?position=43&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=RRELG9ok8gom3N7KvlCwag%3D%3D",
+    "competenciasRequisitadas": [
+      "Lógica de programação",
+      "Bancos de dados"
+    ]
+  },
+  {
+    "id": "4470740665",
+    "titulo": "Vagas Afirmativas para Pessoas com Deficiência",
+    "empresa": "AI/R WEBJUMP",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/vagas-afirmativas-para-pessoas-com-defici%C3%AAncia-at-ai-r-webjump-4470740665?position=42&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=LjQiXEBBnBW27BXGhoUYrw%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "MuleSoft",
+      "Analytics",
+      "Data",
+      "CRM",
+      "CRO",
+      "QA",
+      "SEO",
+      "DevOps",
+      "Scrum"
+    ]
+  },
+  {
+    "id": "4373160739",
+    "titulo": "#Banco de Talentos - Estagiário(a)",
+    "empresa": "Universo E-commerce",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/%23banco-de-talentos-estagi%C3%A1rio-a-at-universo-e-commerce-4373160739?position=44&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=OTXDS49aObjlRhtW2GfKTg%3D%3D",
+    "competenciasRequisitadas": [
+      "Tráfego Pago",
+      "CRM",
+      "SEO"
+    ]
+  },
+  {
+    "id": "4467115781",
+    "titulo": "Estágio em Consultoria & Liderança de Projetos",
+    "empresa": "Lima Consulting Brasil",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-consultoria-lideran%C3%A7a-de-projetos-at-lima-consulting-brasil-4467115781?position=41&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=ppLfrOvCBAxj9mva1vL6Mg%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "Power BI",
+      "Tableau",
+      "Looker",
+      "SQL",
+      "Python"
+    ]
+  },
+  {
+    "id": "4454681213",
+    "titulo": "Estagiário(a) de Manutenção",
+    "empresa": "Guardian Industries",
+    "local": "Tatuí, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-manuten%C3%A7%C3%A3o-at-guardian-industries-4454681213?position=48&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=Q9hGVBxaeu%2F3hk2MT7ASog%3D%3D",
+    "competenciasRequisitadas": [
+      "EAM",
+      "Excel",
+      "Pacote Office",
+      "Power BI"
+    ]
+  },
+  {
+    "id": "4466619218",
+    "titulo": "Estagiário (a) de TI",
+    "empresa": "9net IT Security",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-ti-at-9net-it-security-4466619218?position=37&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=oeNWEbCVBXxWsP%2FkIGd4TQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "Active Directory"
+    ]
+  },
+  {
+    "id": "4471690245",
+    "titulo": "Analista de TI Júnior",
+    "empresa": "AS2 GROUP",
+    "local": "São José dos Campos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-ti-j%C3%BAnior-at-as2-group-4471690245?position=38&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=rqWdIFkOkPSwWBib2%2Bi7aw%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Pacote Office",
+      "SQL",
+      "VB"
+    ]
+  },
+  {
+    "id": "4472978772",
+    "titulo": "Profissional Estagiário em Gestão de Produto",
+    "empresa": "Radix",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/profissional-estagi%C3%A1rio-em-gest%C3%A3o-de-produto-at-radix-4472978772?position=39&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=W%2BUqxkDmyhh2LgtQO1zx%2BQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Scrum",
+      "Kanban",
+      "Agile Mindset",
+      "Lean",
+      "Azure DevOps",
+      "Jira",
+      "Microsoft Excel",
+      "Power BI",
+      "PowerPoint",
+      "Microsoft Teams"
+    ]
+  },
+  {
+    "id": "4475002259",
+    "titulo": "Analista de Suporte Júnior",
+    "empresa": "BRQ Digital Solutions",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-suporte-j%C3%BAnior-at-brq-digital-solutions-4475002259?position=40&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=9siwGNMz7epMR4mSBQTt2Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "Flows",
+      "Data Loader",
+      "SOQL"
+    ]
+  },
+  {
+    "id": "4474297948",
+    "titulo": "Vagas afirmativas para pessoas com deficiência - Área de Tecnologia",
+    "empresa": "AI/R",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/vagas-afirmativas-para-pessoas-com-defici%C3%AAncia-%C3%A1rea-de-tecnologia-at-ai-r-4474297948?position=51&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=al6AgtmZCEPW%2B%2BPrTgcIxw%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "MuleSoft",
+      "Analytics",
+      "Data",
+      "CRM",
+      "CRO",
+      "QA",
+      "SEO",
+      "DevOps",
+      "Scrum"
+    ]
+  },
+  {
+    "id": "4412982687",
+    "titulo": "Assistente de Desenvolvimento de Sistemas - (Vaga Exclusiva PCD)",
+    "empresa": "Accenture Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/assistente-de-desenvolvimento-de-sistemas-vaga-exclusiva-pcd-at-accenture-brasil-4412982687?position=35&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=MfRPJbJjV8nng3b3Pi79Gg%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4475482363",
+    "titulo": "Programa de Estágio ZeroDox",
+    "empresa": "ZERODOX",
+    "local": "Salvador, Bahia, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-zerodox-at-zerodox-4475482363?position=30&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=hDJ6AgzezXYq5SgKfc7qog%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4469633896",
+    "titulo": "Product Management Intern",
+    "empresa": "Sezzle",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/product-management-intern-at-sezzle-4469633896?position=29&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=jRknRLHrgU9%2F%2FX4vLTwtNQ%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL"
+    ]
+  },
+  {
+    "id": "4457519926",
+    "titulo": "ESTÁGIARIO EM SISTEMAS DE OPERAÇÕES",
+    "empresa": "Lojas Renner S.A.",
+    "local": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1giario-em-sistemas-de-opera%C3%A7%C3%B5es-at-lojas-renner-s-a-4457519926?position=27&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=CpCLWJwATWQ7qcBsj0tlmw%3D%3D",
+    "competenciasRequisitadas": [
+      "ServiceNow",
+      "Python",
+      "ITIL",
+      "PL/SQL"
+    ]
+  },
+  {
+    "id": "4455957244",
+    "titulo": "Estagiário na área de Engenharia de Telecomunicações",
+    "empresa": "Jobbol",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-na-%C3%A1rea-de-engenharia-de-telecomunica%C3%A7%C3%B5es-at-jobbol-4455957244?position=31&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=5JBQ7d0cXO6s2VbX%2FkVUYg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4315008858",
+    "titulo": "Programa de Estágio Speed Lebre | Banco de Talentos",
+    "empresa": "Liber",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-speed-lebre-banco-de-talentos-at-liber-4315008858?position=26&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=VOBQyVIMXZ%2F28qyDJCjPCA%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4472612782",
+    "titulo": "Consultor (a) Successfactors Talent Trainee",
+    "empresa": "HR Path",
+    "local": "São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/consultor-a-successfactors-talent-trainee-at-hr-path-4472612782?position=25&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=jxidDtQZy8yWE0rkBsnl%2FQ%3D%3D",
+    "competenciasRequisitadas": [
+      "SAP SuccessFactors"
+    ]
+  },
+  {
+    "id": "4465128184",
+    "titulo": "Estágio em Martech - Implementação & Operação de Plataforma",
+    "empresa": "Lima Consulting Brasil",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-martech-implementa%C3%A7%C3%A3o-opera%C3%A7%C3%A3o-de-plataforma-at-lima-consulting-brasil-4465128184?position=24&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=2vnpLp9307LofAxvrdnEDQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "HTML",
+      "Google Analytics"
+    ]
+  },
+  {
+    "id": "4460353521",
+    "titulo": "A.I. Engineering Intern",
+    "empresa": "Sezzle",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/a-i-engineering-intern-at-sezzle-4460353521?position=23&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=bHD5B%2Bcmmdw7a%2BmIXB2G7g%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Python",
+      "Claude"
+    ]
+  },
+  {
+    "id": "4477813024",
+    "titulo": "Estágio em DevOps/FinOps",
+    "empresa": "Pipol Recrutamento",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-devops-finops-at-pipol-recrutamento-4477813024?position=32&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=6LVsPIjf6rhXueF8c4DqVA%3D%3D",
+    "competenciasRequisitadas": [
+      "DevOps",
+      "FinOps"
+    ]
+  },
+  {
+    "id": "4475601331",
+    "titulo": "Estágio em TI - SC",
+    "empresa": "Fundatec (Fundação Universidade Empresa de Tecnologia e Ciências)",
+    "local": "Florianópolis, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-sc-at-fundatec-funda%C3%A7%C3%A3o-universidade-empresa-de-tecnologia-e-ci%C3%AAncias-4475601331?position=34&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=iWsbsUsJNXUg7O%2B%2FrPrjSQ%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4465578797",
+    "titulo": "Quality Assurance Internship (QA)",
+    "empresa": "Fanatee",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/quality-assurance-internship-qa-at-fanatee-4465578797?position=21&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=o3XUYEOiTE8lw37fBZtDdQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Jira",
+      "Trello",
+      "GIT",
+      "C#",
+      "Unity",
+      "Java",
+      "Swift"
+    ]
+  },
+  {
+    "id": "4473172194",
+    "titulo": "Estágio em Desenvolvimento de Software / Data Mining",
+    "empresa": "Instituto de Pesquisas ELDORADO",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-software-data-mining-at-instituto-de-pesquisas-eldorado-4473172194?position=22&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=usV3oEo14EZDWvOyYB0cvg%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Android",
+      "Data Mining"
+    ]
+  },
+  {
+    "id": "4455945446",
+    "titulo": "Estagiário na área de Engenharia de Telecomunicações",
+    "empresa": "Jobbol",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-na-%C3%A1rea-de-engenharia-de-telecomunica%C3%A7%C3%B5es-at-jobbol-4455945446?position=36&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=XoiRkH3parAVVkYcrb0Tqg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4459590879",
+    "titulo": "Banco de Talentos - Estágio em Engenharia",
+    "empresa": "Control iD",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-est%C3%A1gio-em-engenharia-at-control-id-4459590879?position=18&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=IFnJ1v9iS%2BD4paMOTfKHGw%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4410593179",
+    "titulo": "BANCO DE TALENTOS - Estágio em Validação  (VSC) - HOME OFFICE",
+    "empresa": "FIVE Validation",
+    "local": "Sorocaba, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-est%C3%A1gio-em-valida%C3%A7%C3%A3o-vsc-home-office-at-five-validation-4410593179?position=17&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=BCtctD5U52H%2BlkVBFL5KIg%3D%3D",
+    "competenciasRequisitadas": [
+      "MS Office"
+    ]
+  },
+  {
+    "id": "4473172188",
+    "titulo": "Estágio em Automação de Testes / Desenvolvimento de Software",
+    "empresa": "Instituto de Pesquisas ELDORADO",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-automa%C3%A7%C3%A3o-de-testes-desenvolvimento-de-software-at-instituto-de-pesquisas-eldorado-4473172188?position=13&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=HF4qmDjx1zfannW1wbO3gQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Android",
+      "Java",
+      "Python",
+      "Gemini Code Assist (GCA)",
+      "Git",
+      "Machine Learning",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4474539873",
+    "titulo": "Apprentice – Jovem Aprendiz",
+    "empresa": "CloudWalk, Inc.",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/apprentice-%E2%80%93-jovem-aprendiz-at-cloudwalk-inc-4474539873?position=16&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=z6CgOfuDBaRTznsSAyK8DA%3D%3D",
+    "competenciasRequisitadas": [
+      "AI"
+    ]
+  },
+  {
+    "id": "4471124116",
+    "titulo": "Aprendiz TI - Field Service",
+    "empresa": "SONDA",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/aprendiz-ti-field-service-at-sonda-4471124116?position=15&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=6XfCqTsgPrr1ar7dEhA6ew%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel"
+    ]
+  },
+  {
+    "id": "4474600843",
+    "titulo": "Programa de Estágio CDPeers Group 2027.1",
+    "empresa": "Centro de Desenvolvimento Peers Group",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-cdpeers-group-2027-1-at-centro-de-desenvolvimento-peers-group-4474600843?position=14&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=uoKl9YpsBsOkvx4jdg0YcQ%3D%3D",
+    "competenciasRequisitadas": [
+      "BI",
+      "AI"
+    ]
+  },
+  {
+    "id": "4472657028",
+    "titulo": "Estagiário de Implantação (CS)",
+    "empresa": "Nola",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-implanta%C3%A7%C3%A3o-cs-at-nola-4472657028?position=11&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=R%2BeAeDJK2Z%2F5TiCEMVHldg%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "ChatGPT"
+    ]
+  },
+  {
+    "id": "4446269065",
+    "titulo": "Estágiario (a) de Service Desk",
+    "empresa": "SGI",
+    "local": "Salvador, Bahia, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1giario-a-de-service-desk-at-sgi-4446269065?position=7&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=Gm8jCO3a3hhEm%2B8XMGu4Zw%3D%3D",
+    "competenciasRequisitadas": [
+      "ERP",
+      "ITIL",
+      "AI"
+    ]
+  },
+  {
+    "id": "4450899847",
+    "titulo": "Estagiário de Suporte e Operações",
+    "empresa": "Phoebus",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-suporte-e-opera%C3%A7%C3%B5es-at-phoebus-4450899847?position=9&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=SxHv2LhV%2BL1ioKOZGZwTjw%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "MS-Office",
+      "Oracle",
+      "MongoDB",
+      "SQL",
+      "LINUX",
+      "Docker",
+      "AI",
+      "API REST"
+    ]
+  },
+  {
+    "id": "4471908581",
+    "titulo": "Estágio em IA",
+    "empresa": "Mercado Eletrônico",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ia-at-mercado-eletr%C3%B4nico-4471908581?position=8&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=6d3mwhqOsc6%2Bwwhkdx%2Bbtw%3D%3D",
+    "competenciasRequisitadas": [
+      "N8n",
+      "Supabase",
+      "Claude",
+      "OpenRouter",
+      "OCR",
+      "low-code",
+      "no-code"
+    ]
+  },
+  {
+    "id": "4460752301",
+    "titulo": "Estagiário de BI",
+    "empresa": "Onet Brasil",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-bi-at-onet-brasil-4460752301?position=10&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=qw9rkoTU%2FxUMMtA%2FpX72Eg%3D%3D",
+    "competenciasRequisitadas": [
+      "Power BI",
+      "Excel",
+      "CRM"
+    ]
+  },
+  {
+    "id": "4478004509",
+    "titulo": "Analista de Testes - Estágio",
+    "empresa": "AZ Tecnologia em Gestão",
+    "local": "Campo Grande, Mato Grosso do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-testes-est%C3%A1gio-at-az-tecnologia-em-gest%C3%A3o-4478004509?position=6&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=y1zphRqNu7mFsS4YRrHhFg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4474459804",
+    "titulo": "Desenvolvedor Fullstack (Estágio)",
+    "empresa": "AutoU",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/desenvolvedor-fullstack-est%C3%A1gio-at-autou-4474459804?position=4&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=iCnf5qmbvXj15jHkwb9JoQ%3D%3D",
+    "competenciasRequisitadas": [
+      "JS/TS",
+      "Python",
+      "Java",
+      "Go",
+      "APIs",
+      "Cloud",
+      "Docker",
+      "CI/CD"
+    ]
+  },
+  {
+    "id": "4476385058",
+    "titulo": "ESTAGIARIO DE TECNOLOGIA - SOLUÇÕES APLICADAS IA",
+    "empresa": "Stefanini Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagiario-de-tecnologia-solu%C3%A7%C3%B5es-aplicadas-ia-at-stefanini-brasil-4476385058?position=3&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=j3DV5NFbQ5uwivjCc7mmOg%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Grafana",
+      "Kibana",
+      "Elasticsearch",
+      "Microsoft Azure",
+      "Amazon Web Services (AWS)",
+      "APIs"
+    ]
+  },
+  {
+    "id": "4408059084",
+    "titulo": "L3 Support Intern",
+    "empresa": "Jitterbit",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/l3-support-intern-at-jitterbit-4408059084?position=2&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=6wcJnu60hFXZ2Lbk%2FZGhDA%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL Server",
+      "Java",
+      "Javascript"
+    ]
+  },
+  {
+    "id": "4474483623",
+    "titulo": "Programa de Estágio OrangeDoor | Trilhas Salesforce",
+    "empresa": "OrangeDoor",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-orangedoor-trilhas-salesforce-at-orangedoor-4474483623?position=1&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=Wgn2y0YvWWdyMszeJ9etkQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "Marketing Cloud",
+      "MuleSoft",
+      "Tableau",
+      "Agentforce",
+      "Data 360"
+    ]
+  },
+  {
+    "id": "4472586507",
+    "titulo": "Digital Transformation Intern - COMOS",
+    "empresa": "Siemens Digital Industries Software",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/digital-transformation-intern-comos-at-siemens-digital-industries-software-4472586507?position=4&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=ptDjslXOH6bIXXQrKnwNfA%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4472907859",
+    "titulo": "Estagiário de TI Infra",
+    "empresa": "Constellation Oil Services",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-ti-infra-at-constellation-oil-services-4472907859?position=9&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=fDhB7mMAftSHuitu6goRTg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4467734863",
+    "titulo": "Estagiário de Suporte Técnico - (Híbrido)",
+    "empresa": "Invenzi",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-suporte-t%C3%A9cnico-h%C3%ADbrido-at-invenzi-4467734863?position=7&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=UhtDwcxOYKBGFRlpIwK3yA%3D%3D",
+    "competenciasRequisitadas": [
+      "TeamViewer",
+      "AnyDesk"
+    ]
+  },
+  {
+    "id": "4472322700",
+    "titulo": "Jovem Aprendiz de Infraestrutura (Nuvem)",
+    "empresa": "Gogroup Brasil",
+    "local": "Fortaleza, Ceará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jovem-aprendiz-de-infraestrutura-nuvem-at-gogroup-brasil-4472322700?position=5&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=LTkDmSZ%2FdYGd71g8A0U0og%3D%3D",
+    "competenciasRequisitadas": [
+      "Claude",
+      "ChatGPT",
+      "Excel",
+      "Google Planilhas"
+    ]
+  },
+  {
+    "id": "4470014744",
+    "titulo": "Estágio em Produtos",
+    "empresa": "InComm Payments",
+    "local": "Barueri, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-produtos-at-incomm-payments-4470014744?position=6&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=5LBer3jmaKrBLQ8RC02RSw%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "APIs",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4468515139",
+    "titulo": "SAP SuccessFactors HCM iXp Intern -Technical Support",
+    "empresa": "SAP",
+    "local": "São Leopoldo, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/sap-successfactors-hcm-ixp-intern-technical-support-at-sap-4468515139?position=3&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=spJIwZ%2FDknO%2B0GbBLM1qXA%3D%3D",
+    "competenciasRequisitadas": [
+      "ABAP",
+      "Java",
+      "C++",
+      "SAP HCM"
+    ]
+  },
+  {
+    "id": "4472810154",
+    "titulo": "Estágio em Desenvolvimento de Software",
+    "empresa": "Atmis Gestão",
+    "local": "São José dos Campos, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-software-at-atmis-gest%C3%A3o-4472810154?position=7&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=oNscWXZBZ7VIBjEn%2FAWWBQ%3D%3D",
+    "competenciasRequisitadas": [
+      "C#",
+      ".NET Framework",
+      "SQL",
+      "Git",
+      "GitHub",
+      "SQL Server",
+      "PostgreSQL",
+      "ArcGIS"
+    ]
+  },
+  {
+    "id": "4471770588",
+    "titulo": "Developer DevOps Intern",
+    "empresa": "Nokia",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/developer-devops-intern-at-nokia-4471770588?position=8&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=fgrh7fWoR01RUNfhjOjRaA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "Power BI",
+      "Power Automate",
+      "Power Apps"
+    ]
+  },
+  {
+    "id": "4417421730",
+    "titulo": "Estagiário - Tecnologia Da Informação",
+    "empresa": "Unimed João Pessoa",
+    "local": "João Pessoa, Paraíba, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-tecnologia-da-informa%C3%A7%C3%A3o-at-unimed-jo%C3%A3o-pessoa-4417421730?position=2&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=nyxxWxsBv9%2FRR1UghKljMw%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "PL/SQL",
+      "Oracle Apex",
+      "Pentaho Data Integration"
+    ]
+  },
+  {
+    "id": "4465155363",
+    "titulo": "SAP iXp Intern - Support Engineer at Technical Support - Data & Platform ABAP",
+    "empresa": "SAP",
+    "local": "São Leopoldo, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/sap-ixp-intern-support-engineer-at-technical-support-data-platform-abap-at-sap-4465155363?position=10&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=sWYxZaKw1pqzERJWNdqAVw%3D%3D",
+    "competenciasRequisitadas": [
+      "SAP"
+    ]
+  },
+  {
+    "id": "4468843250",
+    "titulo": "Technical Account Intern",
+    "empresa": "Criteo",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/technical-account-intern-at-criteo-4468843250?position=1&pageNum=6&refId=ZQAi3uCNtOgSPC1sGqWvwQ%3D%3D&trackingId=4%2BKSnrbXCVqO2Ka96iFTVA%3D%3D",
+    "competenciasRequisitadas": [
+      "APIs"
+    ]
+  },
+  {
+    "id": "4466245617",
+    "titulo": "Profissional Estagiário Administrativo - Área Comercial",
+    "empresa": "Radix",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/profissional-estagi%C3%A1rio-administrativo-%C3%A1rea-comercial-at-radix-4466245617?position=5&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=4it2cJtbeAM%2BmbqvvKwPew%3D%3D",
+    "competenciasRequisitadas": [
+      "CRM",
+      "Pipedrive",
+      "HubSpot",
+      "Bizagi",
+      "BPMN",
+      "BPM",
+      "Power BI",
+      "Excel",
+      "Google Sheets"
+    ]
+  },
+  {
+    "id": "4474801054",
+    "titulo": "Pessoa Estagiária de Dados",
+    "empresa": "WPP Media",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-de-dados-at-wpp-media-4474801054?position=4&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=yI0Tk3O6whQxB3HrrzOhqQ%3D%3D",
+    "competenciasRequisitadas": [
+      "GTM",
+      "GA4",
+      "Java",
+      "Python",
+      "Git"
+    ]
+  },
+  {
+    "id": "4417415791",
+    "titulo": "ESTÁGIO DE TECNOLOGIA E AUTOMAÇÃO FINANCEIRA",
+    "empresa": "Corretora SL91",
+    "local": "Salvador, Bahia, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-tecnologia-e-automa%C3%A7%C3%A3o-financeira-at-corretora-sl91-4417415791?position=2&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=nObjbYIugMxH4uEK4UShFw%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "Google Sheets",
+      "Power Automate",
+      "Make",
+      "Zapier",
+      "Python",
+      "VBA",
+      "APIs",
+      "Power BI"
+    ]
+  },
+  {
+    "id": "4466340892",
+    "titulo": "AI Builder Intern [Brazil]",
+    "empresa": "Salesforce",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/ai-builder-intern-brazil-at-salesforce-4466340892?position=10&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=K3Px9KqwcoT1mcwTBU1uLQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Cursor",
+      "Claude",
+      "Vibes"
+    ]
+  },
+  {
+    "id": "4474573167",
+    "titulo": "Estágio em Tecnologia da Informação",
+    "empresa": "MAG Seguros",
+    "local": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-da-informa%C3%A7%C3%A3o-at-mag-seguros-4474573167?position=9&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=8L5t60ykZ9avX1L72LotVA%3D%3D",
+    "competenciasRequisitadas": [
+      "Microsoft Azure",
+      "Node.js",
+      "Angular",
+      "React Native",
+      "Python",
+      "SQL",
+      "Git"
+    ]
+  },
+  {
+    "id": "4472591929",
+    "titulo": "Pessoa Estagiária de Tecnologia – 4h/dia",
+    "empresa": "Mereo.",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-de-tecnologia-%E2%80%93-4h-dia-at-mereo-4472591929?position=5&pageNum=0&refId=0BmjnAm8VS3SNUCoFApEIg%3D%3D&trackingId=ZNK6V7Q6JGmjuosxWUTAXg%3D%3D",
+    "competenciasRequisitadas": [
+      "Microsoft 365",
+      "Windows",
+      "Active Directory",
+      "OpenVPN",
+      "PFSense",
+      "Linux",
+      "SSH",
+      "PowerShell",
+      "AnyDesk",
+      "Intune"
+    ]
+  },
+  {
+    "id": "4474988628",
+    "titulo": "Bling | Aprendiz de Workplace | Híbrido",
+    "empresa": "Bling",
+    "local": "Bento Gonçalves, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/bling-aprendiz-de-workplace-h%C3%ADbrido-at-bling-4474988628?position=6&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=LlrgxFl0B3lnCeIEjdRl7w%3D%3D",
+    "competenciasRequisitadas": [
+      "Google Workspace",
+      "Pacote Office"
+    ]
+  },
+  {
+    "id": "4472921848",
+    "titulo": "Operations Engineer, Intern",
+    "empresa": "PPRO",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/operations-engineer-intern-at-ppro-4472921848?position=8&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=tfe%2BRe3sgPqrUdZ2FfMFbA%3D%3D",
+    "competenciasRequisitadas": [
+      "DataDog",
+      "Grafana",
+      "BigQuery"
+    ]
+  },
+  {
+    "id": "4380711388",
+    "titulo": "ESTÁGIO CIÊNCIA DA COMPUTAÇÃO/SISTEMAS DE INFORMAÇÃO/ANÁLISE DE SISTEMAS - VITÓRIA 417731",
+    "empresa": "CENTER RECURSOS HUMANOS",
+    "local": "Serra, Espírito Santo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-sistemas-de-informa%C3%A7%C3%A3o-an%C3%A1lise-de-sistemas-vit%C3%B3ria-417731-at-center-recursos-humanos-4380711388?position=10&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=vpYJcJUyVETUTMRRVRsnQg%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4438346504",
+    "titulo": "Jovem Aprendiz",
+    "empresa": "Bionexo",
+    "local": "Blumenau, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jovem-aprendiz-at-bionexo-4438346504?position=1&pageNum=7&refId=g7UimRA%2BUNN7ZBeLZTsD1Q%3D%3D&trackingId=K43M9tDRV4WiEQxmJyrJ1Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Business Intelligence",
+      "Java",
+      "React",
+      "Angular"
+    ]
+  },
+  {
+    "id": "4477812289",
+    "titulo": "Estágio em Tecnologia (Recursos Humanos) - Curitiba PR",
+    "empresa": "MBRF",
+    "local": "Curitiba, Paraná, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-recursos-humanos-curitiba-pr-at-mbrf-4477812289?position=9&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=3dU320hqsYXzmvy8jvgfug%3D%3D",
+    "competenciasRequisitadas": [
+      "APIs",
+      "ServiceNow",
+      "SAP SuccessFactors"
+    ]
+  },
+  {
+    "id": "4474619669",
+    "titulo": "Estágio em TI | Arsenal - São Gonçalo",
+    "empresa": "B. Braun Group",
+    "local": "São Gonçalo, Rio de Janeiro, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-arsenal-s%C3%A3o-gon%C3%A7alo-at-b-braun-group-4474619669?position=6&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=1yyCEJlor5jjVrq0iFHuHQ%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4466580961",
+    "titulo": "[Banco de Talentos] Delivery AI Engineering Intern, Brazil - X Delivery",
+    "empresa": "BCG X",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-delivery-ai-engineering-intern-brazil-x-delivery-at-bcg-x-4466580961?position=2&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=C8o4yOigFcAskj9mkuuaHA%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "SQL",
+      "Java",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "4476372539",
+    "titulo": "ESTAGIARIO - Microsoft 365 e Azure",
+    "empresa": "Stefanini Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagiario-microsoft-365-e-azure-at-stefanini-brasil-4476372539?position=1&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=tqUgZzncdIanFUko5r8DDA%3D%3D",
+    "competenciasRequisitadas": [
+      "Microsoft 365",
+      "Microsoft Azure",
+      "Microsoft Entra ID",
+      "Exchange Online",
+      "Teams",
+      "SharePoint Online",
+      "OneDrive",
+      "Microsoft Intune",
+      "PowerShell",
+      "Active Directory"
+    ]
+  },
+  {
+    "id": "4453485547",
+    "titulo": "Jovem Aprendiz (Tecnologia) I Hibrido - BH",
+    "empresa": "Onfly",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jovem-aprendiz-tecnologia-i-hibrido-bh-at-onfly-4453485547?position=10&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=AlrTd0CmjMfzsb%2BBf7EH5g%3D%3D",
+    "competenciasRequisitadas": [
+      "PHP",
+      "Node.js",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "ChatGPT",
+      "Copilot"
+    ]
+  },
+  {
+    "id": "4470570055",
+    "titulo": "ESTAGIÁRIO DE DESENVOLVIMENTO DE SOFTWARE - SÃO PAULO/SP",
+    "empresa": "Tahto",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-desenvolvimento-de-software-s%C3%A3o-paulo-sp-at-tahto-4470570055?position=4&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=azDVDM9Bs6%2BMQ3f45HOJcg%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      ".NET",
+      "C#",
+      "Oracle",
+      "Oracle 11g",
+      "Git",
+      "SVN"
+    ]
+  },
+  {
+    "id": "4467880429",
+    "titulo": "Estágio de TI",
+    "empresa": "Cushman & Wakefield",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-ti-at-cushman-wakefield-4467880429?position=5&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=6bdIY%2B2YepuM346DKlcoiw%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Python",
+      "Java"
+    ]
+  },
+  {
+    "id": "4446467212",
+    "titulo": "Estágio - Operações & Serviços Cybersegurança (MSS)",
+    "empresa": "SEK Security Ecosystem Knowledge",
+    "local": "São Paulo, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-opera%C3%A7%C3%B5es-servi%C3%A7os-cyberseguran%C3%A7a-mss-at-sek-security-ecosystem-knowledge-4446467212?position=3&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=7n16GwdqlE688BHPitvFxA%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial",
+      "Machine Learning",
+      "Automação de processos",
+      "Segurança da informação e redes"
+    ]
+  },
+  {
+    "id": "4472810385",
+    "titulo": "Jovem Aprendiz",
+    "empresa": "Mercado Eletrônico",
+    "local": "São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jovem-aprendiz-at-mercado-eletr%C3%B4nico-4472810385?position=6&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=e3jJXy2Hfi%2B1Vs7%2FIigpvQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "pacote Office"
+    ]
+  },
+  {
+    "id": "4465981297",
+    "titulo": "Estágio em Desenvolvimento de Sistemas",
+    "empresa": "MICHELIN Connected Fleet",
+    "local": "Barueri, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-sistemas-at-michelin-connected-fleet-4465981297?position=2&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=AVKaorP7tvzE2h8BMA3tZg%3D%3D",
+    "competenciasRequisitadas": [
+      "controle de versão",
+      "banco de dados",
+      "APIs"
+    ]
+  },
+  {
+    "id": "4474295956",
+    "titulo": "Estágio em Desenvolvimento de Soluções",
+    "empresa": "Brasoftware",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-desenvolvimento-de-solu%C3%A7%C3%B5es-at-brasoftware-4474295956?position=3&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=dUHForhdk%2B%2BfgSt8U2BNBQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Git",
+      "GitHub",
+      "C#",
+      "Python",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Azure",
+      "Power Platform"
+    ]
+  },
+  {
+    "id": "4466040134",
+    "titulo": "AHS Support Intern",
+    "empresa": "Komatsu",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/ahs-support-intern-at-komatsu-4466040134?position=8&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=ET5%2Fmb2xn25tvQeXolkXmQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Linux",
+      "Redes de computadores",
+      "SQL"
+    ]
+  },
+  {
+    "id": "4390806251",
+    "titulo": "TACTUS - ESTÁGIO EM TECNOLOGIA E AUTOMAÇÃO - PRESENCIAL/HÍBRIDO",
+    "empresa": "Tactus Contabilidade Digital",
+    "local": "São Bernardo do Campo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/tactus-est%C3%A1gio-em-tecnologia-e-automa%C3%A7%C3%A3o-presencial-h%C3%ADbrido-at-tactus-contabilidade-digital-4390806251?position=9&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=WxjX6SfoLjdTcU9T0C8q%2FA%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4475211592",
+    "titulo": "Estagiário(a) em Engenharia de Dados",
+    "empresa": "Youse Seguros",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-engenharia-de-dados-at-youse-seguros-4475211592?position=8&pageNum=8&refId=xNyBTTjgIg0F3kdtyCubVg%3D%3D&trackingId=wMYjEU63%2Fopm%2F2MPH%2BcPuw%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "ETL",
+      "ELT",
+      "SQL",
+      "Cloud Computing",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Git",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "4475480969",
+    "titulo": "Estágio em T.I (Desenvolvimento de Sistemas)",
+    "empresa": "Tilibra",
+    "local": "Bauru, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-t-i-desenvolvimento-de-sistemas-at-tilibra-4475480969?position=7&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=ywIRXZKDjWSyQR0ojupSrA%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle",
+      "Baan Tools",
+      "PowerBI",
+      "SQL"
+    ]
+  },
+  {
+    "id": "4472609945",
+    "titulo": "Estágio Engenharia de Sistemas",
+    "empresa": "SMS group Brasil",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-engenharia-de-sistemas-at-sms-group-brasil-4472609945?position=1&pageNum=9&refId=Vq0FR2Im384zXivqVzFMMA%3D%3D&trackingId=84cWB52jsWRGibptZUSS1A%3D%3D",
+    "competenciasRequisitadas": [
+      "AutoCAD",
+      "Navisworks",
+      "Ansys",
+      "AVEVA",
+      "TEKLA",
+      "Python",
+      "C#",
+      "VBA",
+      "PowerShell",
+      "APIs"
+    ]
+  }
+]

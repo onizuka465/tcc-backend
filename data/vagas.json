@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "titulo": "Desenvolvedor Front-end Júnior",
+    "empresa": "TechNova",
+    "competenciasRequisitadas": ["JavaScript", "HTML", "CSS", "React", "Git"]
+  },
+  {
+    "id": 2,
+    "titulo": "Estágio em Desenvolvimento Back-end",
+    "empresa": "CloudBrasil",
+    "competenciasRequisitadas": ["Node.js", "JavaScript", "SQL", "Git", "REST API"]
+  },
+  {
+    "id": 3,
+    "titulo": "Desenvolvedor Full Stack Júnior",
+    "empresa": "InovaSoft",
+    "competenciasRequisitadas": ["JavaScript", "React", "Node.js", "MongoDB", "Git", "Docker"]
+  },
+  {
+    "id": 4,
+    "titulo": "Estágio em Análise de Dados",
+    "empresa": "DataPoint",
+    "competenciasRequisitadas": ["Python", "SQL", "Excel", "Power BI"]
+  },
+  {
+    "id": 5,
+    "titulo": "Desenvolvedor Python Júnior",
+    "empresa": "ByteWorks",
+    "competenciasRequisitadas": ["Python", "Django", "SQL", "Git", "Linux"]
+  },
+  {
+    "id": 6,
+    "titulo": "Estágio em QA/Testes",
+    "empresa": "QualiTech",
+    "competenciasRequisitadas": ["JavaScript", "Testes Automatizados", "Git", "Selenium"]
+  },
+  {
+    "id": 7,
+    "titulo": "Desenvolvedor Mobile Júnior (React Native)",
+    "empresa": "AppFlex",
+    "competenciasRequisitadas": ["JavaScript", "React", "React Native", "Git"]
+  },
+  {
+    "id": 8,
+    "titulo": "Estágio em Suporte e Infraestrutura",
+    "empresa": "InfraPlus",
+    "competenciasRequisitadas": ["Linux", "Redes", "SQL", "Git"]
+  },
+  {
+    "id": 9,
+    "titulo": "Desenvolvedor Java Júnior",
+    "empresa": "CorpSystems",
+    "competenciasRequisitadas": ["Java", "Spring Boot", "SQL", "Git", "Docker"]
+  },
+  {
+    "id": 10,
+    "titulo": "Estágio em Desenvolvimento Web",
+    "empresa": "WebCraft",
+    "competenciasRequisitadas": ["HTML", "CSS", "JavaScript", "Git"]
+  }
+]

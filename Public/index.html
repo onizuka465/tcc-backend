@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vagas de TI para o seu currículo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* Cores e fontes ficam em variaveis: mudar o visual = mudar so este bloco */
+  :root {
+    --fundo: #F2F5F4;
+    --superficie: #FFFFFF;
+    --tinta: #1C2B33;
+    --suave: #56676F;
+    --linha: #D5DDDA;
+    --ok: #127A62;
+    --falta: #B7791F;
+    --foco: #0B5FA5;
+    --erro: #A32D2D;
+    --fonte-titulo: "Bricolage Grotesque", system-ui, sans-serif;
+    --fonte-texto: "Public Sans", system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fundo: #10191D; --superficie: #18242A; --tinta: #E6EEEC; --suave: #9DB0B3;
+      --linha: #2B3B41; --ok: #3CC1A0; --falta: #E0A83F; --foco: #7DB8F0; --erro: #F09595;
+    }
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--fundo); color: var(--tinta);
+    font: 400 1rem/1.55 var(--fonte-texto);
+  }
+  main { max-width: 44rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+
+  h1, h2 { font-family: var(--fonte-titulo); line-height: 1.15; margin: 0; }
+  h1 { font-size: clamp(1.9rem, 5vw, 2.6rem); font-weight: 700; max-width: 18ch; }
+  h2 { font-size: 1.35rem; font-weight: 600; margin-bottom: .75rem; }
+  h2:focus { outline: none; }
+  .intro { color: var(--suave); margin: .75rem 0 2rem; max-width: 52ch; }
+
+  /* ---- Envio do arquivo ---- */
+  .arquivo { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .zona {
+    display: block; padding: 1.5rem 1.25rem; cursor: pointer;
+    background: var(--superficie); border: 2px dashed var(--linha); border-radius: 6px;
+    color: var(--suave); transition: border-color .15s;
+  }
+  .zona:hover, .zona.arrastando { border-color: var(--ok); }
+  .arquivo:focus-visible + .zona { outline: 3px solid var(--foco); outline-offset: 2px; }
+  .zona strong { display: block; color: var(--tinta); font-weight: 600; }
+
+  button {
+    margin-top: 1rem; padding: .7rem 1.4rem; font: 600 1rem var(--fonte-texto);
+    color: #fff; background: var(--ok); border: 0; border-radius: 6px; cursor: pointer;
+  }
+  @media (prefers-color-scheme: dark) { button { color: #08201A; } }
+  button:disabled { opacity: .45; cursor: not-allowed; }
+  button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px solid var(--foco); outline-offset: 2px; }
+
+  /* ---- Estado (carregando / erro) ---- */
+  #estado { min-height: 1.5rem; margin-top: 1rem; color: var(--suave); }
+  #estado.erro { color: var(--erro); font-weight: 500; }
+  #estado .detalhe { display: block; font-weight: 400; font-size: .85rem; color: var(--suave); }
+  .spinner {
+    display: inline-block; width: 1em; height: 1em; margin-right: .5em; vertical-align: -.15em;
+    border: 2px solid var(--linha); border-top-color: var(--ok); border-radius: 50%;
+    animation: girar .8s linear infinite;
+  }
+  @keyframes girar { to { transform: rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .spinner { animation: none; } }
+
+  /* ---- Resultados ---- */
+  #resultado section { margin-top: 2.75rem; }
+  .nota { color: var(--suave); font-size: .9rem; margin: -.25rem 0 .5rem; }
+
+  .chips { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; margin: 0; padding: 0; }
+  .chips li { padding: .25rem .7rem; background: var(--superficie); border: 1px solid var(--linha); border-radius: 99px; font-size: .92rem; }
+
+  .vagas { list-style: none; margin: 0; padding: 0; }
+  .vaga { padding: 1.25rem 0; border-bottom: 1px solid var(--linha); }
+  .vaga:first-child { border-top: 1px solid var(--linha); }
+  .vaga-topo { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+  .vaga-titulo { font-weight: 600; font-size: 1.05rem; color: var(--tinta); text-decoration-color: var(--linha); text-underline-offset: 3px; }
+  a.vaga-titulo:hover { text-decoration-color: var(--ok); }
+  .vaga-local { margin: .1rem 0 0; color: var(--suave); font-size: .92rem; }
+  .vaga-pct { text-align: right; flex-shrink: 0; }
+  .vaga-pct strong { display: block; font: 700 1.7rem/1 var(--fonte-titulo); }
+  .vaga-pct span { font-size: .82rem; color: var(--suave); }
+
+  /* A barra: 1 segmento por requisito. Cheio = voce atende. Vazado = falta. */
+  .barra { display: flex; gap: 3px; margin: .9rem 0 .6rem; }
+  .seg { flex: 1; height: 9px; border-radius: 2px; }
+  .seg-ok { background: var(--ok); }
+  .seg-falta { border: 1.5px solid var(--falta); }
+
+  details { font-size: .92rem; }
+  summary { cursor: pointer; color: var(--suave); width: fit-content; }
+  .requisitos { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1rem; margin-top: .6rem; }
+  .requisitos strong { display: block; margin-bottom: .2rem; }
+  .requisitos ul { margin: 0; padding-left: 1.1rem; }
+
+  .recomendacao { max-width: 62ch; margin: 0 0 1rem; }
+  .sugestoes { list-style: none; margin: 0; padding: 0; }
+  .sugestoes li { display: flex; justify-content: space-between; gap: 1rem; padding: .45rem 0; border-bottom: 1px solid var(--linha); }
+  .sugestoes span { color: var(--suave); font-size: .92rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Vagas de TI que combinam com o seu currículo</h1>
+  <p class="intro">Envie seu currículo em PDF. Você vê as vagas mais compatíveis e quais competências estudar para alcançar mais delas.</p>
+
+  <form id="formulario">
+    <input class="arquivo" type="file" id="curriculo" accept="application/pdf">
+    <label class="zona" id="zona" for="curriculo">
+      <strong id="zona-texto">Escolher o PDF do currículo</strong>
+      ou arraste o arquivo para cá
+    </label>
+    <button type="submit" id="analisar" disabled>Analisar currículo</button>
+  </form>
+
+  <div id="estado" aria-live="polite"></div>
+  <div id="resultado" hidden></div>
+</main>
+
+<script>
+  "use strict";
+
+  // ---------- Referencias aos elementos da pagina ----------
+  const entrada = document.getElementById("curriculo");
+  const zona = document.getElementById("zona");
+  const zonaTexto = document.getElementById("zona-texto");
+  const formulario = document.getElementById("formulario");
+  const botao = document.getElementById("analisar");
+  const estado = document.getElementById("estado");
+  const resultado = document.getElementById("resultado");
+
+  let arquivoEscolhido = null;
+
+  // ---------- Utilitarios ----------
+  // Cria um elemento HTML. Usa textContent (nunca innerHTML): os titulos das vagas vem
+  // do LinkedIn, ou seja, de fora. Com textContent, qualquer HTML malicioso vira so texto.
+  function el(tag, { classe, texto, attrs } = {}, filhos = []) {
+    const e = document.createElement(tag);
+    if (classe) e.className = classe;
+    if (texto !== undefined) e.textContent = texto;
+    for (const [chave, valor] of Object.entries(attrs || {})) e.setAttribute(chave, valor);
+    filhos.forEach((filho) => e.appendChild(filho));
+    return e;
+  }
+
+  // So aceita links http/https (bloqueia coisas como "javascript:...")
+  function urlSegura(url) {
+    try {
+      const u = new URL(url);
+      return u.protocol === "https:" || u.protocol === "http:" ? u.href : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function plural(n, singular, pluralTxt) {
+    return `${n} ${n === 1 ? singular : pluralTxt}`;
+  }
+
+  // ---------- Mensagens de estado ----------
+  function mostrarCarregando() {
+    estado.className = "";
+    estado.replaceChildren(
+      el("span", { classe: "spinner" }),
+      document.createTextNode("Analisando seu currículo. Isso leva alguns segundos.")
+    );
+  }
+
+  function mostrarErro(mensagem, etapa) {
+    estado.className = "erro";
+    const filhos = [document.createTextNode(mensagem)];
+    if (etapa) filhos.push(el("span", { classe: "detalhe", texto: `Etapa: ${etapa}` }));
+    estado.replaceChildren(...filhos);
+  }
+
+  function limparEstado() {
+    estado.className = "";
+    estado.replaceChildren();
+  }
+
+  // ---------- Escolha do arquivo ----------
+  function escolherArquivo(arquivo) {
+    if (!arquivo) return;
+    if (arquivo.type !== "application/pdf") {
+      mostrarErro("Envie um arquivo em PDF.");
+      return;
+    }
+    arquivoEscolhido = arquivo;
+    zonaTexto.textContent = arquivo.name;
+    botao.disabled = false;
+    limparEstado();
+  }
+
+  entrada.addEventListener("change", () => escolherArquivo(entrada.files[0]));
+
+  // Arrastar e soltar
+  zona.addEventListener("dragover", (e) => { e.preventDefault(); zona.classList.add("arrastando"); });
+  zona.addEventListener("dragleave", () => zona.classList.remove("arrastando"));
+  zona.addEventListener("drop", (e) => {
+    e.preventDefault();
+    zona.classList.remove("arrastando");
+    escolherArquivo(e.dataTransfer.files[0]);
+  });
+
+  // ---------- Chamada ao back-end ----------
+  class ErroApi extends Error {
+    constructor(mensagem, etapa) {
+      super(mensagem);
+      this.etapa = etapa;
+    }
+  }
+
+  async function analisarCurriculo(arquivo) {
+    const dados = new FormData();
+    dados.append("curriculo", arquivo); // o nome "curriculo" e o que o servidor espera
+
+    let resposta;
+    try {
+      resposta = await fetch("/analisar-curriculo", { method: "POST", body: dados });
+    } catch {
+      // fetch so falha assim quando nem chegou no servidor
+      throw new ErroApi("Não foi possível falar com o servidor. Confira se ele está rodando (npm start).");
+    }
+
+    const corpo = await resposta.json().catch(() => null);
+    if (!resposta.ok) {
+      throw new ErroApi(corpo?.erro || "Ocorreu um erro inesperado.", corpo?.etapa);
+    }
+    return corpo;
+  }
+
+  formulario.addEventListener("submit", async (e) => {
+    e.preventDefault(); // impede o navegador de recarregar a pagina
+    if (!arquivoEscolhido) return;
+
+    botao.disabled = true;
+    resultado.hidden = true;
+    mostrarCarregando();
+
+    try {
+      const dados = await analisarCurriculo(arquivoEscolhido);
+      limparEstado();
+      mostrarResultado(dados);
+    } catch (erro) {
+      mostrarErro(erro.message, erro.etapa);
+    } finally {
+      botao.disabled = false;
+    }
+  });
+
+  // ---------- Montagem do resultado ----------
+  function criarListaDeRequisitos(rotulo, itens) {
+    const conteudo = itens.length
+      ? el("ul", {}, itens.map((item) => el("li", { texto: item })))
+      : el("span", { texto: "Nenhum" });
+    return el("div", {}, [el("strong", { texto: rotulo }), conteudo]);
+  }
+
+  function criarVaga(vaga) {
+    const atendidos = vaga.requisitosAtendidos;
+    const faltantes = vaga.requisitosFaltantes;
+    const total = atendidos.length + faltantes.length;
+
+    const url = urlSegura(vaga.link);
+    const titulo = url
+      ? el("a", { classe: "vaga-titulo", texto: vaga.titulo, attrs: { href: url, target: "_blank", rel: "noopener noreferrer" } })
+      : el("span", { classe: "vaga-titulo", texto: vaga.titulo });
+
+    const local = [vaga.empresa, vaga.local].filter(Boolean).join(", ");
+
+    // Um segmento por requisito: primeiro os que voce atende, depois os que faltam
+    const segmentos = [
+      ...atendidos.map(() => el("span", { classe: "seg seg-ok" })),
+      ...faltantes.map(() => el("span", { classe: "seg seg-falta" })),
+    ];
+    const barra = el(
+      "div",
+      { classe: "barra", attrs: { role: "img", "aria-label": `${atendidos.length} de ${total} requisitos atendidos` } },
+      segmentos
+    );
+
+    const detalhes = el("details", {}, [
+      el("summary", { texto: "Ver requisitos" }),
+      el("div", { classe: "requisitos" }, [
+        criarListaDeRequisitos("Você tem", atendidos),
+        criarListaDeRequisitos("Falta desenvolver", faltantes),
+      ]),
+    ]);
+
+    return el("li", { classe: "vaga" }, [
+      el("div", { classe: "vaga-topo" }, [
+        el("div", {}, [titulo, el("p", { classe: "vaga-local", texto: local })]),
+        el("div", { classe: "vaga-pct" }, [
+          el("strong", { texto: `${vaga.percentual}%` }),
+          el("span", { texto: `${atendidos.length} de ${total} requisitos` }),
+        ]),
+      ]),
+      barra,
+      detalhes,
+    ]);
+  }
+
+  function criarSecaoRecomendacao(rec) {
+    const filhos = [el("h2", { texto: "Por onde começar a estudar" })];
+
+    if (rec.recomendacao) {
+      filhos.push(el("p", { classe: "recomendacao", texto: rec.recomendacao }));
+      filhos.push(
+        el(
+          "ul",
+          { classe: "sugestoes" },
+          rec.competenciasSugeridas.map((c) =>
+            el("li", {}, [
+              el("div", { texto: c.competencia }),
+              el("span", { texto: `falta em ${plural(c.apareceEmVagas, "vaga", "vagas")}` }),
+            ])
+          )
+        )
+      );
+    } else {
+      // Sem vagas na faixa de 40-80%: o servidor explica o motivo
+      filhos.push(el("p", { classe: "recomendacao", texto: rec.mensagem || "Não há recomendações para este currículo." }));
+    }
+    return el("section", {}, filhos);
+  }
+
+  function mostrarResultado(dados) {
+    const tituloCompetencias = el("h2", { texto: "Competências encontradas no currículo", attrs: { tabindex: "-1" } });
+
+    resultado.replaceChildren(
+      el("section", {}, [
+        tituloCompetencias,
+        el("ul", { classe: "chips" }, dados.competenciasDoCurriculo.map((c) => el("li", { texto: c }))),
+      ]),
+      el("section", {}, [
+        el("h2", { texto: "Vagas mais compatíveis" }),
+        el("p", { classe: "nota", texto: `Comparamos seu currículo com ${plural(dados.totalVagasAnalisadas, "vaga", "vagas")}.` }),
+        el("ol", { classe: "vagas" }, dados.vagasCompativeis.map(criarVaga)),
+      ]),
+      criarSecaoRecomendacao(dados.recomendacoes)
+    );
+
+    resultado.hidden = false;
+
+    // Leva o foco (e a rolagem) para o resultado, respeitando quem pediu menos animacao
+    const reduzir = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    resultado.scrollIntoView({ behavior: reduzir ? "auto" : "smooth", block: "start" });
+    tituloCompetencias.focus({ preventScroll: true });
+  }
+</script>
+</body>
+</html>

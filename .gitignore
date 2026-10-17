@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.log
+data_backup/
+relatorio_*.json
