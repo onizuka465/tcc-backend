@@ -18,7 +18,7 @@ const path = require("path");
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 const app = express();
-const PORT = 3000;
+
 const upload = multer({ storage: multer.memoryStorage() });
 
 // =====================================================================
@@ -426,6 +426,8 @@ app.post("/recomendacoes", async (req, res) => {
 // Captura erros que acontecem ANTES das rotas (ex.: falha do multer no upload)
 app.use((erro, req, res, next) => responderErro(res, erro));
 
-app.listen(PORT, () => {
-  console.log(`Servidor rodando em http://localhost:${PORT}`);
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Servidor rodando na porta ${PORT}`);
 });
