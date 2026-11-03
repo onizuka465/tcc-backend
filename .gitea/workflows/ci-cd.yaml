@@ -37,3 +37,4 @@ jobs:
       branch_slug: ${{ needs.build_docker.outputs.branch_slug }}
       project_name: ${{ gitea.event.repository.name }}
     secrets: inherit
+
