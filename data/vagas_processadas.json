@@ -2590,5 +2590,780 @@
       "PowerShell",
       "APIs"
     ]
+  },
+  {
+    "id": "4487570548",
+    "titulo": "Analista de Sistemas (Desenvolvedor Java) Júnior",
+    "empresa": "DANIEL",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/analista-de-sistemas-desenvolvedor-java-j%C3%BAnior-at-daniel-4487570548?position=58&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=z2bY57KR697wV8lF3Ga4Gw%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Spring Boot",
+      "Oracle",
+      "MySQL",
+      "APIs RESTful"
+    ]
+  },
+  {
+    "id": "4484121184",
+    "titulo": "Estágio em TI",
+    "empresa": "Imaflora",
+    "local": "Piracicaba, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-at-imaflora-4484121184?position=60&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=zqp88Sn2x8rcPZjMrone4A%3D%3D",
+    "competenciasRequisitadas": [
+      "Pacote Office",
+      "GLPI",
+      "Hardware"
+    ]
+  },
+  {
+    "id": "4486568848",
+    "titulo": "JR Analista de Suporte a Sistemas",
+    "empresa": "ília",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/jr-analista-de-suporte-a-sistemas-at-%C3%ADlia-4486568848?position=56&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=eDclEp4LTLXJKG3q6tB%2B1w%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle SQL",
+      "REST APIs",
+      "JSON",
+      "SFTP",
+      "Postman",
+      "Jira",
+      "Confluence",
+      "ServiceNow",
+      "Salesforce"
+    ]
+  },
+  {
+    "id": "4475872702",
+    "titulo": "Programa de Estágio Toky Talentos -  Tecnologia | TokStok",
+    "empresa": "Tok&Stok",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-toky-talentos-tecnologia-tokstok-at-tok-stok-4475872702?position=55&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=HdUo5JpyM8hLV%2FPp2Gf9sQ%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4482596245",
+    "titulo": "Estágio em TI",
+    "empresa": "TD SYNNEX Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-at-td-synnex-brasil-4482596245?position=51&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=SMOKrq0QnIfzeqysRfQpGQ%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4483410016",
+    "titulo": "Estágio de Infraestrutura",
+    "empresa": "NEXDOM healthtech",
+    "local": "Joinville, Santa Catarina, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-infraestrutura-at-nexdom-healthtech-4483410016?position=46&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=d7UgnJVf43OLUBvwn7l2Uw%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4476616154",
+    "titulo": "Estágio Técnico | Área de Technical Sales",
+    "empresa": "Engineering Brasil",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-t%C3%A9cnico-%C3%A1rea-de-technical-sales-at-engineering-brasil-4476616154?position=47&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=Pfu9BHxL16vWpZFV7iv82g%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "Power BI",
+      "SQL",
+      "Python",
+      "Salesforce",
+      "Dynamics",
+      "HubSpot",
+      "ERP"
+    ]
+  },
+  {
+    "id": "4480735720",
+    "titulo": "< Programa Trainee 2027 >",
+    "empresa": "BotCity",
+    "local": "Campinas, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-trainee-2027-at-botcity-4480735720?position=44&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=UOb%2BNjPuD1pe7yOFkVpDkw%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id": "4484679334",
+    "titulo": "Estágio em Tecnologia da Informação - Infraestrutura",
+    "empresa": "Faculdade Unimed",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-da-informa%C3%A7%C3%A3o-infraestrutura-at-faculdade-unimed-4484679334?position=48&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=KjDmx2xf%2F2LzWG4JEt8zdQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Pacote Office",
+      "Office 365"
+    ]
+  },
+  {
+    "id": "4487788965",
+    "titulo": "Estágio em TI (Sustentação)",
+    "empresa": "Interplayers",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ti-sustenta%C3%A7%C3%A3o-at-interplayers-4487788965?position=41&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=PyNwIbfRYkq5BSuPC1uojg%3D%3D",
+    "competenciasRequisitadas": [
+      "Power Automate",
+      "GitHub",
+      "Angular",
+      "C#",
+      "Python",
+      "SQL",
+      "APIs REST",
+      "Git"
+    ]
+  },
+  {
+    "id": "4485862527",
+    "titulo": "Estagiário",
+    "empresa": "IGA ENGENHARIA DE AVALIAÇÕES LTDA.",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-4485862527?position=42&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=ax9KEAvYqkOxHCECo0niOA%3D%3D&trk=public_jobs_jserp-result_search-card",
+    "competenciasRequisitadas": [
+      "Pacote Office",
+      "Excel"
+    ]
+  },
+  {
+    "id": "4469349926",
+    "titulo": "Estágio em Geoprocessamento 12571053M",
+    "empresa": "Geopixel Geotecnologias",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-geoprocessamento-12571053m-at-geopixel-geotecnologias-4469349926?position=38&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=saL4wAincBSzbb3hYcRfiA%3D%3D",
+    "competenciasRequisitadas": [
+      "Arcgis",
+      "Qgis",
+      "Geoprocessamento",
+      "Sensoriamento remoto"
+    ]
+  },
+  {
+    "id": "4484436515",
+    "titulo": "Graduate Systems Support Engineer",
+    "empresa": "Aceleradora Ágil",
+    "local": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/graduate-systems-support-engineer-at-aceleradora-%C3%A1gil-4484436515?position=43&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=DB0B6zNHdjUtbuaIjhBz6w%3D%3D",
+    "competenciasRequisitadas": [
+      "DevOps",
+      "Continuous Delivery"
+    ]
+  },
+  {
+    "id": "4476457088",
+    "titulo": "Programa de Estágio - 2027 (Regular e Summer)",
+    "empresa": "Enter",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-2027-regular-e-summer-at-enter-4476457088?position=32&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=lRrlS1RKbC6dw3QGJuuOQg%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4364227854",
+    "titulo": "Vale | Tecnologia | Estágio",
+    "empresa": "abler Vagas",
+    "local": "Nova Lima, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/vale-tecnologia-est%C3%A1gio-at-abler-vagas-4364227854?position=36&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=1r2mlDx%2FbWJs9n2n%2FefOtQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Power BI",
+      "Power Platform",
+      "Machine Learning",
+      "Pacote Office",
+      "Excel"
+    ]
+  },
+  {
+    "id": "4487031997",
+    "titulo": "Estágio remoto em Engenharia Civil – IA aplicada à Infraestrutura",
+    "empresa": "Manta Associados",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-remoto-em-engenharia-civil-%E2%80%93-ia-aplicada-%C3%A0-infraestrutura-at-manta-associados-4487031997?position=31&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=NmHW%2BwtQ%2BNOlIBnzvUWr%2Bw%3D%3D",
+    "competenciasRequisitadas": [
+      "AutoCAD",
+      "Python",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4477744144",
+    "titulo": "Estagiário(a) de DPO — Privacidade e Proteção de Dados",
+    "empresa": "It4us Cyber Security",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-dpo-%E2%80%94-privacidade-e-prote%C3%A7%C3%A3o-de-dados-at-it4us-cyber-security-4477744144?position=33&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=JRRq6S0urqg36or9fO1iQg%3D%3D",
+    "competenciasRequisitadas": [
+      "LGPD",
+      "ISO 27001",
+      "Excel"
+    ]
+  },
+  {
+    "id": "4485666033",
+    "titulo": "Estagiário de Projetos",
+    "empresa": "Netwire Global",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-projetos-at-netwire-global-4485666033?position=34&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=nO3Quedz2lPdrX0iBvb15w%3D%3D",
+    "competenciasRequisitadas": [
+      "Monday",
+      "Plunet",
+      "Trello",
+      "Jira"
+    ]
+  },
+  {
+    "id": "4479415221",
+    "titulo": "Estágio em Governança de TI  |Trabalho remoto | Vaga afirmativa para Pessoas Pretas e Pardas, LGBTIA+, PCD e Gerações",
+    "empresa": "Câmara de Comercialização de Energia Elétrica - CCEE (Chamber of Electric Energy Commercialization)",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-governan%C3%A7a-de-ti-trabalho-remoto-vaga-afirmativa-para-pessoas-pretas-e-pardas-lgbtia%2B-pcd-e-gera%C3%A7%C3%B5es-at-c%C3%A2mara-de-comercializa%C3%A7%C3%A3o-de-energia-el%C3%A9trica-ccee-chamber-of-electric-energy-commercialization-4479415221?position=29&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=E%2FH1Mx4P%2BpU%2F7nc%2FHNPxbg%3D%3D",
+    "competenciasRequisitadas": [
+      "Microsoft 365",
+      "Excel",
+      "PowerPoint",
+      "Word",
+      "Teams",
+      "Outlook",
+      "Power BI",
+      "Microsoft Copilot",
+      "Power Platform"
+    ]
+  },
+  {
+    "id": "4477311869",
+    "titulo": "Quality Assurance Internship (QA)",
+    "empresa": "Fanatee",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/quality-assurance-internship-qa-at-fanatee-4477311869?position=23&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=7V6SOuntbPxWsWub18GHbA%3D%3D",
+    "competenciasRequisitadas": [
+      "Jira",
+      "Trello",
+      "GIT",
+      "C#",
+      "Unity",
+      "Java",
+      "Swift"
+    ]
+  },
+  {
+    "id": "4485592656",
+    "titulo": "Suporte Técnico Interno - Alvorada - Vagas Disponíveis",
+    "empresa": "BuscarVagas - Empregos Brasil",
+    "local": "Alvorada, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/suporte-t%C3%A9cnico-interno-alvorada-vagas-dispon%C3%ADveis-at-buscarvagas-empregos-brasil-4485592656?position=26&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=2tarfs%2B%2BmFZSj%2BjxVeGUmA%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4483702204",
+    "titulo": "Product Manager Intern, ShopX(Rewards)",
+    "empresa": "Sezzle",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/product-manager-intern-shopx-rewards-at-sezzle-4483702204?position=37&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=qIlluahFGG2IyE%2FcZYsKBA%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL"
+    ]
+  },
+  {
+    "id": "4483686085",
+    "titulo": "Estágio em AI Engineering",
+    "empresa": "MadeiraMadeira",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ai-engineering-at-madeiramadeira-4483686085?position=25&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=uECa6wiS8XkmrrWD3uc5xQ%3D%3D",
+    "competenciasRequisitadas": [
+      "N8N",
+      "Python",
+      "API REST",
+      "Intercom",
+      "Jira",
+      "WhatsApp",
+      "Git",
+      "HTML",
+      "JavaScript",
+      "React"
+    ]
+  },
+  {
+    "id": "4482539589",
+    "titulo": "Estágio com ênfase em Banco de Dados",
+    "empresa": "Geopixel Geotecnologias",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-com-%C3%AAnfase-em-banco-de-dados-at-geopixel-geotecnologias-4482539589?position=15&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=N5KAM9EtlsWsyvT8bYwDhg%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL",
+      "Python",
+      "GeoServer",
+      "QGIS",
+      "Excel",
+      "PostgreSQL",
+      "PostGIS",
+      "DBeaver",
+      "pandas",
+      "GeoPandas"
+    ]
+  },
+  {
+    "id": "4487595061",
+    "titulo": "Banco de Talentos - Estágio em Engenharia de Dados",
+    "empresa": "Instituto Cordial",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-est%C3%A1gio-em-engenharia-de-dados-at-instituto-cordial-4487595061?position=20&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=HamqStvr3KDgNPGSXiTF1Q%3D%3D",
+    "competenciasRequisitadas": [
+      "Python",
+      "Pandas",
+      "SQL",
+      "PostgreSQL",
+      "ETL",
+      "ELT",
+      "Google Cloud Platform",
+      "BigQuery",
+      "Apache Airflow",
+      "Git"
+    ]
+  },
+  {
+    "id": "4483877721",
+    "titulo": "Programa de Estágio - GenAI",
+    "empresa": "iFood",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-genai-at-ifood-4483877721?position=18&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=MQq7yjjGglysWfgn9xzKNQ%3D%3D",
+    "competenciasRequisitadas": [
+      "GitHub",
+      "Hugging Face",
+      "Kaggle",
+      "LLMs",
+      "Prompt engineering",
+      "Claude",
+      "GPT",
+      "Gemini",
+      "n8n",
+      "Make"
+    ]
+  },
+  {
+    "id": "4486528170",
+    "titulo": "Trainee (Engenharia)",
+    "empresa": "TO Brasil",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/trainee-engenharia-at-to-brasil-4486528170?position=19&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=1y76%2B7a2m3%2FtYyl5skrWRg%3D%3D",
+    "competenciasRequisitadas": [
+      "Pacote Office",
+      "Excel",
+      "Word",
+      "Power Point"
+    ]
+  },
+  {
+    "id": "4426139280",
+    "titulo": "Estágio em Processos e Projetos",
+    "empresa": "V360",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-processos-e-projetos-at-v360-4426139280?position=16&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=48BhxL5Wpy%2BVoTZZRIsjzA%3D%3D",
+    "competenciasRequisitadas": [
+      "Gestão de Projetos",
+      "Inteligência Artificial",
+      "Metodologias ágeis",
+      "Programação"
+    ]
+  },
+  {
+    "id": "4483922077",
+    "titulo": "Pessoa Estagiária de Governança de SI",
+    "empresa": "Atlas Governance",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-estagi%C3%A1ria-de-governan%C3%A7a-de-si-at-atlas-governance-4483922077?position=14&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=r5jkqKA7%2FItQYLkiaz3nKw%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial",
+      "Governança de Segurança da Informação"
+    ]
+  },
+  {
+    "id": "4471105824",
+    "titulo": "Aprendiz TI - Field Service",
+    "empresa": "SONDA",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/aprendiz-ti-field-service-at-sonda-4471105824?position=17&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=wBaO3Cix2DQX2xVb6BmOog%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "Informática"
+    ]
+  },
+  {
+    "id": "4480492665",
+    "titulo": "Estágio de Cloud Engineer",
+    "empresa": "Senior Noroeste Paulista",
+    "local": "Ribeirão Preto, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-cloud-engineer-at-senior-noroeste-paulista-4480492665?position=12&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=whl11tFmU0HvOzO8UgZrxA%3D%3D",
+    "competenciasRequisitadas": [
+      "Cloud Computing",
+      "Oracle Cloud Infrastructure",
+      "Microsoft Azure",
+      "Infrastructure as Code",
+      "Terraform",
+      "FinOps",
+      "PowerShell",
+      "Python",
+      "Bash",
+      "Git"
+    ]
+  },
+  {
+    "id": "4480654325",
+    "titulo": "Estágio em Serviços",
+    "empresa": "Confience Brazil",
+    "local": "Jundiaí, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-servi%C3%A7os-at-confience-brazil-4480654325?position=28&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=8psVsHnTHVWP5crYgy6Sxw%3D%3D",
+    "competenciasRequisitadas": [
+      "Análise de requisitos",
+      "Desenvolvimento de software",
+      "Metodologias ágeis"
+    ]
+  },
+  {
+    "id": "4484219957",
+    "titulo": "Estagiário(a) em Testes (QA - Quality Assurance)",
+    "empresa": "Visie",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-testes-qa-quality-assurance-at-visie-4484219957?position=9&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=6hZAuKaIScrrANupz2WYcw%3D%3D",
+    "competenciasRequisitadas": [
+      "Postman",
+      "Selenium",
+      "pytest",
+      "Jest",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "4485200169",
+    "titulo": "Estágio de Suporte - Tech Travel - Befly",
+    "empresa": "BeFly",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-suporte-tech-travel-befly-at-befly-4485200169?position=6&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=6HgG0I3IBcSjhT29JjroiQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel"
+    ]
+  },
+  {
+    "id": "4487037282",
+    "titulo": "Engenheiro de software",
+    "empresa": "Parque das Feiras Online",
+    "local": "Toritama, Pernambuco, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/engenheiro-de-software-at-parque-das-feiras-online-4487037282?position=7&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=eOQkW8Q96cyJ8GXrZhX4tA%3D%3D",
+    "competenciasRequisitadas": [
+      "Java",
+      "Python",
+      "JavaScript"
+    ]
+  },
+  {
+    "id": "4485161766",
+    "titulo": "Estágio em Eng. de Produção, Eng. de Software, Banco de Dados",
+    "empresa": "Fundação Mudes",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-eng-de-produ%C3%A7%C3%A3o-eng-de-software-banco-de-dados-at-funda%C3%A7%C3%A3o-mudes-4485161766?position=8&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=GyW9r21qQ8WfJ4iY8qsUwg%3D%3D",
+    "competenciasRequisitadas": [
+      "COUPA",
+      "Power Apps",
+      "Excel",
+      "PowerPoint"
+    ]
+  },
+  {
+    "id": "4480542690",
+    "titulo": "L3 Support Intern",
+    "empresa": "Jitterbit",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/l3-support-intern-at-jitterbit-4480542690?position=1&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=q8RBS1iGOSS%2FE3pv%2BNUdbw%3D%3D",
+    "competenciasRequisitadas": [
+      "SQL Server",
+      "Java",
+      "Javascript",
+      "Excel"
+    ]
+  },
+  {
+    "id": "4479830978",
+    "titulo": "Estagiário na área de Análise e Desenvolvimento de Sistemas",
+    "empresa": "Jobbol",
+    "local": "Recife, Pernambuco, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-na-%C3%A1rea-de-an%C3%A1lise-e-desenvolvimento-de-sistemas-at-jobbol-4479830978?position=3&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=rBlG2%2Bd84%2FUumT2w2FnWjA%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4484248872",
+    "titulo": "DBA JR",
+    "empresa": "SONDA",
+    "local": "Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/dba-jr-at-sonda-4484248872?position=9&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=lkA54bhjuUmTYs%2F7jD%2FKIg%3D%3D",
+    "competenciasRequisitadas": [
+      "Oracle",
+      "SQL Server",
+      "PostgreSQL",
+      "MySQL",
+      "Linux",
+      "Windows Server"
+    ]
+  },
+  {
+    "id": "4482530900",
+    "titulo": "ESTAGIÁRIO (A) DE PROGRAMAÇÃO (SOLUÇÕES DE MERCADO)",
+    "empresa": "3 Corações S/A",
+    "local": "Eusébio, Ceará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-programa%C3%A7%C3%A3o-solu%C3%A7%C3%B5es-de-mercado-at-3-cora%C3%A7%C3%B5es-s-a-4482530900?position=4&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=6m4ZFUNPzKV2JHhYfO6pQQ%3D%3D",
+    "competenciasRequisitadas": [
+      "JavaScript",
+      "SQL Server",
+      "JSON",
+      "API REST",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Wordpress",
+      "Service Now"
+    ]
+  },
+  {
+    "id": "4485639082",
+    "titulo": "Vagas Afirmativas para Pessoas com Deficiência",
+    "empresa": "AI/R",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/vagas-afirmativas-para-pessoas-com-defici%C3%AAncia-at-ai-r-4485639082?position=8&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=4brj8LfA8TPeNB1Z7VhLpA%3D%3D",
+    "competenciasRequisitadas": [
+      "Salesforce",
+      "MuleSoft",
+      "Analytics",
+      "DevOps",
+      "Scrum"
+    ]
+  },
+  {
+    "id": "4484234777",
+    "titulo": "Estágio em Tecnologia, Sistemas e Comunicação",
+    "empresa": "Integrity Recruitment Group",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-sistemas-e-comunica%C3%A7%C3%A3o-at-integrity-recruitment-group-4484234777?position=6&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=bUi6Qz%2F%2BosaCGqnYIoxzqA%3D%3D",
+    "competenciasRequisitadas": [
+      "Google Workspace",
+      "Excel",
+      "Google Sheets"
+    ]
+  },
+  {
+    "id": "4437477269",
+    "titulo": "Vale |Tecnologia | Estágio",
+    "empresa": "abler Vagas",
+    "local": "Belém, Pará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/vale-tecnologia-est%C3%A1gio-at-abler-vagas-4437477269?position=10&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=gpLFnDF0x%2BlEvaQMV7%2BVbA%3D%3D",
+    "competenciasRequisitadas": [
+      "ITIL",
+      "CMDB"
+    ]
+  },
+  {
+    "id": "4479837731",
+    "titulo": "Estagiário na área de Análise e Desenvolvimento de Sistemas",
+    "empresa": "Jobbol",
+    "local": "Manaus, Amazonas, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-na-%C3%A1rea-de-an%C3%A1lise-e-desenvolvimento-de-sistemas-at-jobbol-4479837731?position=4&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=y8XlKinG05JdJ2d5UypLew%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4466102580",
+    "titulo": "Programa de Estágio - Sucesso do Cliente - 100% Remoto (BANCO DE TALENTOS)",
+    "empresa": "Nibo",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/programa-de-est%C3%A1gio-sucesso-do-cliente-100%25-remoto-banco-de-talentos-at-nibo-4466102580?position=5&pageNum=6&refId=Ev38mkLKOG%2FPJzX3LgIE6w%3D%3D&trackingId=QKTp8O2XgEF5OAzPRufsvw%3D%3D",
+    "competenciasRequisitadas": [
+      "CRM",
+      "WhatsApp"
+    ]
+  },
+  {
+    "id": "4476490761",
+    "titulo": "Estagiário(a)  Consultoria Técnica NFSE",
+    "empresa": "TecnoSpeed TI",
+    "local": "Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-consultoria-t%C3%A9cnica-nfse-at-tecnospeed-ti-4476490761?position=5&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=PSZdng8QleOZZ48KBKA16A%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4483280500",
+    "titulo": "Estagiário(a) em Suporte Técnico N3",
+    "empresa": "alt.bank",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-em-suporte-t%C3%A9cnico-n3-at-alt-bank-4483280500?position=2&pageNum=0&refId=1VYY5WEG07s4ikyoBjEasw%3D%3D&trackingId=TpWIa%2Fzoxm%2BsSzwACfLPbw%3D%3D",
+    "competenciasRequisitadas": [
+      "Grafana",
+      "Retool",
+      "n8n"
+    ]
+  },
+  {
+    "id": "4482110950",
+    "titulo": "Support Intern MTS BR",
+    "empresa": "Komatsu",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/support-intern-mts-br-at-komatsu-4482110950?position=10&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=KmY27uEvJ4OH1uWOT1YL4A%3D%3D",
+    "competenciasRequisitadas": [
+      "Unix",
+      "SQL"
+    ]
+  },
+  {
+    "id": "4472069916",
+    "titulo": "Estágio | TI, Ciências da Computação, ADS...",
+    "empresa": "EMPREGARE.com",
+    "local": "Brasília, Federal District, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-ti-ci%C3%AAncias-da-computa%C3%A7%C3%A3o-ads-at-empregare-com-4472069916?position=7&pageNum=7&refId=dLuMcdvesINESp8gJodFiA%3D%3D&trackingId=JiYd%2FuGi3fTu4QES4oiokw%3D%3D",
+    "competenciasRequisitadas": []
+  },
+  {
+    "id": "4486787727",
+    "titulo": "Estágio em Tecnologia da Informação",
+    "empresa": "Vortigo Digital",
+    "local": "Porto Alegre, Rio Grande do Sul, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-tecnologia-da-informa%C3%A7%C3%A3o-at-vortigo-digital-4486787727?position=6&pageNum=7&refId=dLuMcdvesINESp8gJodFiA%3D%3D&trackingId=FnbD7np6%2FGzccpFmGgCi0g%3D%3D",
+    "competenciasRequisitadas": [
+      "lógica de programação",
+      "JavaScript",
+      "Python",
+      "Java",
+      "C#",
+      "PHP",
+      "banco de dados",
+      "SQL",
+      "Windows",
+      "versionamento de código"
+    ]
+  },
+  {
+    "id": "4477391088",
+    "titulo": "PESSOA JOVEM APRENDIZ T.I - (MATRIZ)",
+    "empresa": "Consórcio Embracon",
+    "local": "Santana de Parnaíba, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/pessoa-jovem-aprendiz-t-i-matriz-at-cons%C3%B3rcio-embracon-4477391088?position=5&pageNum=9&refId=yXlIqpRdKPBY3%2FK0Yj2OqA%3D%3D&trackingId=KiF4exhxrDzWHoZK3am0Cg%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial",
+      "Excel",
+      "PowerPoint",
+      "Canva"
+    ]
+  },
+  {
+    "id": "4442201904",
+    "titulo": "Banco de Talentos | Estágio em Tecnologia - Suporte Técnico Global | São Paulo",
+    "empresa": "Sintel",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/banco-de-talentos-est%C3%A1gio-em-tecnologia-suporte-t%C3%A9cnico-global-s%C3%A3o-paulo-at-sintel-4442201904?position=1&pageNum=9&refId=yXlIqpRdKPBY3%2FK0Yj2OqA%3D%3D&trackingId=GXqV%2BK8YxtmwSq9lUtIPgg%3D%3D",
+    "competenciasRequisitadas": [
+      "tráfego de arquivos via VAN",
+      "integração de arquivos",
+      "mapeamento de arquivos",
+      "SAP",
+      "EDI"
+    ]
+  },
+  {
+    "id": "4476085136",
+    "titulo": "Summer Job Núclea | Verão 2026/2027",
+    "empresa": "Núclea",
+    "local": "São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/summer-job-n%C3%BAclea-ver%C3%A3o-2026-2027-at-n%C3%BAclea-4476085136?position=8&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=37jIedmnj21gk4jyXDV9pA%3D%3D",
+    "competenciasRequisitadas": [
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "id": "4481793083",
+    "titulo": "Estagiário de TI - Produtos",
+    "empresa": "Timbro Trading",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-de-ti-produtos-at-timbro-trading-4481793083?position=9&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=imBNQe7yDCglCdwRVB0cIA%3D%3D",
+    "competenciasRequisitadas": [
+      "Excel",
+      "PowerPoint"
+    ]
+  },
+  {
+    "id": "4480023832",
+    "titulo": "Estágio em IA",
+    "empresa": "Atlas Governance",
+    "local": "Vinhedo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-ia-at-atlas-governance-4480023832?position=7&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=N3SYryJcp1hSYDyM3DEZlA%3D%3D",
+    "competenciasRequisitadas": [
+      "LLMs",
+      "Sistemas de agentes de IA"
+    ]
+  },
+  {
+    "id": "4453711871",
+    "titulo": "SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Digital Hub",
+    "empresa": "SAP",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/sap-ixp-intern-digital-solution-advisor-baip-specialist-for-sap-digital-hub-at-sap-4453711871?position=6&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=Sm8drZb56KreJBGexE2OEw%3D%3D",
+    "competenciasRequisitadas": [
+      "Business AI",
+      "Analytics",
+      "Data Management",
+      "Integration",
+      "Generative AI"
+    ]
+  },
+  {
+    "id": "4485571039",
+    "titulo": "ESTAGIÁRIO (A) DE SEGURANÇA DE  TI",
+    "empresa": "3 Corações S/A",
+    "local": "Eusébio, Ceará, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-seguran%C3%A7a-de-ti-at-3-cora%C3%A7%C3%B5es-s-a-4485571039?position=9&pageNum=7&refId=dLuMcdvesINESp8gJodFiA%3D%3D&trackingId=A7GUh1j41gkaWJ%2Frka%2BJiQ%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows"
+    ]
+  },
+  {
+    "id": "4478810754",
+    "titulo": "Estagiário(a) de Dados e IA - Foco em Inovação",
+    "empresa": "Union IT",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/estagi%C3%A1rio-a-de-dados-e-ia-foco-em-inova%C3%A7%C3%A3o-at-union-it-4478810754?position=3&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=YojrrxTTRaFFcFiKXnutgg%3D%3D",
+    "competenciasRequisitadas": [
+      "VS Code",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Git",
+      "HTML",
+      "CSS",
+      "AWS",
+      "Azure",
+      "GCP"
+    ]
+  },
+  {
+    "id": "4480081944",
+    "titulo": "Estágio em Help Desk",
+    "empresa": "Avita®",
+    "local": "São Paulo, São Paulo, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-em-help-desk-at-avita%C2%AE-4480081944?position=1&pageNum=8&refId=zj3A4JOffU0OB9nzz23WKg%3D%3D&trackingId=zE6rW3gDo007ZikmSPiEKA%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Linux"
+    ]
+  },
+  {
+    "id": "4481003604",
+    "titulo": "Estágio de TI",
+    "empresa": "SMS group Brasil",
+    "local": "Belo Horizonte, Minas Gerais, Brazil",
+    "link": "https://br.linkedin.com/jobs/view/est%C3%A1gio-de-ti-at-sms-group-brasil-4481003604?position=1&pageNum=7&refId=dLuMcdvesINESp8gJodFiA%3D%3D&trackingId=oEtgb102Ip6QdvHgHC17vw%3D%3D",
+    "competenciasRequisitadas": [
+      "Windows",
+      "Outlook",
+      "Word",
+      "Excel",
+      "Teams",
+      "IA",
+      "RPA"
+    ]
   }
 ]
